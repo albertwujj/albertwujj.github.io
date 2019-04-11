@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "In-Depth: Explaining OpenAI’s GPT-2"
+title:  'In-Depth: Explaining OpenAI’s GPT-2'
 permalink: /gpt2sampling/
 ---
 
@@ -56,4 +56,4 @@ Now, the famous ability of responding to a prompt is simple. First, the prompt i
 
 The embedding for the generated word is then used as the length-1 input sequence to another pass. This pass produces a single embedding, from which another word is sampled. And thus the process repeats, adding a single word to GPT-2’s response with each pass.
 
-At this point, I have explained the adaptations made to the Transformer-based GPT model to allow GPT-2 to respond to prompts. I hope you found this essay helpful. Feel free to leave feedback, or let me know if you’d appreciate another post walking through the GPT-2 code in-depth.
+Above, I have explained the adaptations made to the Transformer-based GPT model to allow GPT-2 to respond to prompts. I hope you found this essay helpful. Feel free to leave feedback, or let me know if you’d appreciate another post walking through the GPT-2 code in-depth.
