@@ -12,7 +12,7 @@ However, OpenAI did release a smaller, 117M parameter model, complete with code 
 
 While the [first GPT paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) does explain the model with a bit more technical depth, their description is still lacking in detail, instead relying on terms from the original Transformer paper without explicitly specifying their constructions.
 
-Furthermore, there is no explanation of the rather interesting way OpenAI adapted their original model to the prompt-based text generation task that made GPT-2 so notorious. The only way I found is the unnecessarily laborious task of reading their undocumented code. However, I have done so, and will provide the explanation. This article will describe the adaptations made for the text-generation task.
+Furthermore, there is no explanation of the rather interesting way OpenAI adapted their original model to the prompt-based text generation task that made GPT-2 so notorious. The only way I found is the rather laborious task of reading the undocumented code. However, I have done so, and will provide the explanation. This article will describe the adaptations made for the text-generation task.
 
 The GPT model is based on the decoder part of the [Transformer architecture](https://arxiv.org/pdf/1706.03762.pdf). If you are familiar with the Transformer architecture, go ahead and skim or skip the next five paragraphs. If not, I recommend reading up on it, but will provide a brief, high-level description here.
 
@@ -22,9 +22,9 @@ In order to calculate the weights, ‘Attention’ operations use a set of vecto
 
 Then, to determine the weight for a specific (input position, output position) pair, we use the corresponding (key, query) pair. This can be as simple as taking the dot product of the key and query.
 
-So, ‘attention’ covers the broad range of methods based on taking a combination of the input items weighted using ‘keys’ and ‘queries’. Where do we get these keys and queries? In the case of self-attention, where the output sequence is the same size as the input sequence, the keys and queries are both the input sequence itself. Yes, you read that right. If you only use the dot product to calculate weights, each output vector will essentially be the average of the vectors most similar to the corresponding input vector. The self-attention operation will not change the by much at all.
+So, ‘attention’ covers the broad range of methods based on taking a combination of the input items weighted using ‘keys’ and ‘queries’. Where do we get these keys and queries? In the case of self-attention, where the output sequence is the same size as the input sequence, the keys and queries are both the input sequence itself. If you only use the dot product to calculate weights, each output vector will essentially be the average of the vectors most similar to the corresponding input vector. The self-attention operation will not change the sequence by much at all.
 
-However, there are a couple important modifications which, among other things, helps this issue. One is called multi-head attention. In multi-head attention, the queries, keys, and values are projected to multiple smaller-dimension spaces using a fully-connected neural network layer. Then, the results from the attention operation in each space are concatenated then projected back to the original dimensions using another fully-connected layer.
+However, there are a couple important modifications which, among other things, helps this issue. One is called multi-head attention. In multi-head attention, the input sequence, queries, and keys are projected to multiple fewer-dimension spaces using a fully-connected neural network layer. Then, the results from the attention operation in each space are concatenated then projected back to the original dimensions using another fully-connected layer.
 
 As the neural-network layers will be trained through gradient descent (our attention operation is differentiable), even if you simply use the dot product to calculate weights within each projected space, the model can learn projections that result in more than just naked similarity between the original key and query.
 
@@ -34,7 +34,7 @@ OpenAI’s GPT only uses the ‘decoder’ from the Transformer architecture, re
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Ji79bZ3KqpMAjZ9Txv4q8Q.png)The GPT architecture, from the GPT paper
 
-Now, to the actual use of the model. We specified that each element in the input/output sequences is a vector representing a word. The proper natural language processing terminology for this vector is ‘a word embedding’. This is a good topic to read about if you are unfamiliar. To clarify, however — besides in the initial input sequence, each vector is not the exact embedding for a specific word. Rather, you can measure its similarity to a word by measuring the similarity between the vectors. You can then perform a sampling for a specific word using similarities as probabilities.
+Now, to the actual use of the model. We specified that each element in the input/output sequences is a vector representing a word. The proper natural language processing terminology for this vector is ‘a word embedding’. This is a good topic to read about if you are unfamiliar. To clarify, however — besides in the initial input sequence, each vector is not the exact embedding for a specific word. Rather, you can measure the vector's similarity to specific word embeddings. You can then sample a specific word based on the similarities.
 
 So, the decoder takes a sequence of word embeddings as input, and produces a sequence of word embeddings as output. You can then use sampling techniques to transform the embedding sequence into actual text outputs. But how is the model trained?
 
@@ -57,3 +57,4 @@ Now, the famous ability of responding to a prompt is simple. First, the prompt i
 The embedding for the generated word is then used as the length-1 input sequence to another pass. This pass produces a single embedding, from which another word is sampled. And thus the process repeats, adding a single word to GPT-2’s response with each pass.
 
 Above, I have explained the adaptations made to the Transformer-based GPT model to allow GPT-2 to respond to prompts. I hope you found this essay helpful. Feel free to leave feedback, or let me know if you’d appreciate another post walking through the GPT-2 code in-depth.
+
