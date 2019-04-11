@@ -1,14 +1,8 @@
 ---
 layout: page
-title: gpt2sampling
+title: 'In-Depth: Explaining OpenAI’s GPT-2' 
 permalink: /gpt2sampling/
 ---
-
-# In-Depth: Explaining OpenAI’s GPT-2
-
-[![Go to the profile of Albert Wu](https://cdn-images-1.medium.com/fit/c/100/100/1*LjrVwMaNaKYKuenQLJIYFw.jpeg)](https://medium.com/@albertwu_14963)[Albert Wu](https://medium.com/@albertwu_14963)<span class="followState js-followState" data-user-id="4e692f1c93c3"><button class="button button--smallest u-noUserSelect button--withChrome u-baseColor--buttonNormal button--withHover button--unblock js-unblockButton u-marginLeft10 u-xs-hide" data-action="sign-up-prompt" data-sign-in-action="toggle-block-user" data-requires-token="true" data-redirect="https://medium.com/@albertwu_14963/in-depth-explaining-openais-gpt-2-bc49b6fb8559" data-action-source="post_header_lockup"><span class="button-label  button-defaultState">Blocked</span><span class="button-label button-hoverState">Unblock</span></button><button class="button button--primary button--smallest button--dark u-noUserSelect button--withChrome u-accentColor--buttonDark button--follow js-followButton u-marginLeft10 u-xs-hide" data-action="sign-up-prompt" data-sign-in-action="toggle-subscribe-user" data-requires-token="true" data-redirect="https://medium.com/_/subscribe/user/4e692f1c93c3" data-action-source="post_header_lockup-4e692f1c93c3-------------------------follow_byline"><span class="button-label  button-defaultState js-buttonLabel">Follow</span><span class="button-label button-activeState">Following</span></button></span><time datetime="2019-04-10T23:16:31.624Z">Apr 10</time><span class="middotDivider u-fontSize12"></span><span class="readingTime" title="6 min read"></span>
-
-*   TODO: Add recycle example
 
 In early 2019, OpenAI’s GPT-2 made waves in the media with its ability to produce paragraphs of realistic text, and spawned a controversy due to the decision to withhold the full model.
 
