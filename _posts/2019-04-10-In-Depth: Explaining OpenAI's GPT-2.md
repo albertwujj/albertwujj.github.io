@@ -48,9 +48,10 @@ GPT-2 generates its responses word by word, each individual word sampled from th
 
 Now, you may be rightfully asking: where does attention come into play, if the sequences are of length 1?
 
-This is GPT-2’s key algorithmic adaptation. GPT-2 keeps track of the past keys and corresponding input vectors, from each decoder layer in each of the previous passes. Each decoder layer has a new key and corresponding input vector, namely the vector in its length-1 input sequence. Let’s call the key’s corresponding input vector the ‘value’, although the key and value are the same vector in the case of self-attention. The decoder layer then concatenates this new key/value to the end of the keys/values from previous passes, which are kept in order.
+This is GPT-2’s key algorithmic adaptation. GPT-2 keeps track of all past keys and corresponding input vectors (after the multi-head operation; in multiple different projected spaces). Within a pass, each decoder layer has a single key and corresponding input vector from the vector in its length-1 input sequence. 
 
-To give an example, if we are on the 3rd pass through a decoder of 5 layers, our concatenated key/value sequence will be length 2 * 5 + 1 = 11\. Importantly, in order to ensure the key/value sequences within a single pass are the same length, we only concatenate with keys/values from previous passes, not from previous layers within the current pass.
+However, this layer will concatenate this single pair with all the previous pairs from the same layer in all previous passes. Thus, there will be multiple keys and input vectors, allowing each attention output vector to be an weighted average of the input vectors.
+
 
 Now, the famous ability of responding to a prompt is simple. First, the prompt is converted to a sequence of word embeddings, which is passed through the decoder once, producing a sequence of output embeddings. The first generated word is sampled from the final embedding.
 
