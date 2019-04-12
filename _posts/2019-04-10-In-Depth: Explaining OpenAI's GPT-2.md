@@ -14,7 +14,7 @@ While the [first GPT paper](https://s3-us-west-2.amazonaws.com/openai-assets/res
 
 Furthermore, there is no explanation of the rather interesting way OpenAI adapted their original model to the prompt-based text generation task that made GPT-2 so notorious. The only way I found is the rather laborious task of reading the undocumented code. However, I have done so, and will provide the explanation. This article will describe the adaptations made for the text-generation task.
 
-The GPT model is based on the decoder part of the [Transformer architecture](https://arxiv.org/pdf/1706.03762.pdf). If you are familiar with the Transformer architecture, go ahead and skim or skip the next five paragraphs. If not, I recommend reading up on it, but will provide a brief, high-level description here.
+The GPT model is based on the decoder part of the [Transformer architecture](https://arxiv.org/pdf/1706.03762.pdf). If you are familiar with the Transformer architecture, go ahead and skim or skip the next five paragraphs. If not, I recommend reading about it, but will provide a brief, high-level description here.
 
 Attention is a concept that includes different operations with certain key similarities. To explain it briefly, assume we have an input sequence of length M. Our attention operation will produce an output sequence of length N. These are both sequences of vectors. In natural language processing, one vector represents one word. Each vector in the output is a unique weighted average of the vectors in the input. Thus, we will need a weight for each (input position, output position) pair.
 
@@ -34,7 +34,7 @@ OpenAI’s GPT only uses the ‘decoder’ from the Transformer architecture, re
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Ji79bZ3KqpMAjZ9Txv4q8Q.png)The GPT architecture, from the GPT paper
 
-Now, to the actual use of the model. We specified that each element in the input/output sequences is a vector representing a word. The proper natural language processing terminology for this vector is ‘a word embedding’. This is a good topic to read about if you are unfamiliar. To clarify, however — besides in the initial input sequence, each vector is not the exact embedding for a specific word. Rather, you can measure the vector's similarity to specific word embeddings. You can then sample a specific word based on the similarities.
+Now, to the actual use of the model. We specified that each element in the input/output sequences is a vector representing a word. The proper natural language processing terminology for this vector is ‘a word embedding’. This is a good topic to read about if you are unfamiliar. To clarify, however — besides in the initial input sequence, each vector is not the exact embedding for a specific word. Rather, you can use the dot product to measure the vector's similarity to specific word embeddings. You can then sample a specific word based on the similarities.
 
 So, the decoder takes a sequence of word embeddings as input, and produces a sequence of word embeddings as output. You can then use sampling techniques to transform the embedding sequence into actual text outputs. But how is the model trained?
 
@@ -56,5 +56,5 @@ Now, the famous ability of responding to a prompt is simple. First, the prompt i
 
 The embedding for the generated word is then used as the length-1 input sequence to another pass. This pass produces a single embedding, from which another word is sampled. And thus the process repeats, adding a single word to GPT-2’s response with each pass.
 
-Above, I have explained the adaptations made to the Transformer-based GPT model to allow GPT-2 to respond to prompts. I hope you found this essay helpful. Feel free to leave feedback, or let me know if you’d appreciate another post walking through the GPT-2 code in-depth.
+Above, I have explained the adaptations made to the Transformer-based GPT model to allow GPT-2 to respond to prompts. I hope you found this essay helpful. Feel free to leave feedback by email, or let me know if you’d appreciate another post walking through the GPT-2 code in-depth.
 
