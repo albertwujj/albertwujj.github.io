@@ -17,8 +17,8 @@ title: Albert Wu
 email: albertwujj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bloggin
-logo: blog.png
 
+image: blog.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: albertwujj
