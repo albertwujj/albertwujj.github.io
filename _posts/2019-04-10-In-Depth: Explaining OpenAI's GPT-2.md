@@ -16,7 +16,7 @@ Furthermore, there is no explanation of the rather interesting way OpenAI adapte
 
 The GPT model is based on the decoder part of the [Transformer architecture](https://arxiv.org/pdf/1706.03762.pdf). If you are familiar with the Transformer architecture, go ahead and skim or skip the next five paragraphs. If not, I recommend reading about it, but will provide a brief, high-level description here.
 
-Attention is a concept that includes different operations with certain key similarities. To explain it briefly, assume we have an input sequence of length M. Our attention operation will produce an output sequence of length N. These are both sequences of vectors. In natural language processing, one vector represents one word. Each vector in the output is a unique weighted average of the vectors in the input. Thus, we will need a weight for each (input position, output position) pair.
+Attention describes techniques where each element in the output sequence is connected to each element in the input sequence, with dynamically calculated weights. To explain it briefly, assume we have an input sequence of length M. Our attention operation will produce an output sequence of length N. These are both sequences of vectors. In natural language processing, one vector represents one word. Each vector in the output is a unique weighted average of the vectors in the input. Thus, we will need a weight for each (input position, output position) pair.
 
 In order to calculate the weights, ‘Attention’ operations use a set of vectors corresponding to the input sequence, and a set of vectors corresponding to the output sequence. Let’s call these sets keys and queries, respectively.
 
