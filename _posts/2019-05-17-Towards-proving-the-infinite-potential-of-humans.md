@@ -1,15 +1,17 @@
 ---
 layout: page
-title:  'Towards proving the infinite potential of humans. aka a collection of aphorisms'
+title:  'Towards proving the infinite potential of humans'
 permalink: /infinitepotential
 ---
-
+###### A collection of aphorisms with a narrative
 > I swear, it's like the outgroup doesn't even WANT to live in the tradeoff-free fantasy world I'm bludgeoning them over the head with - @webdevMason
 
 *Note: We are upper-middle class American citizens (or as our parents like to call it 'still working poor'), thus our perspective is heavily biased. The following is currently largely targeted toward people in similar socio-economic situations.*
 
-People can be in 100% agreement even if everything is constructed, as long as they communicate. They just communicate their ideas/values and then both continue discussing and updating their functions until it almost (close enoughly) converges to consistent.
-So not 100% as in 100% but as in as much as satisfies them individually. To elaborate on 2-person full agreement - I mean full agreement on a specific idea (in my analogy a 'state'), which then each person has to backup to be the same as each other, and still consistent with their value function of their other ideas
+Everything is an opinion. Everything is constructed. How, then, does humanity function? Calm, honest, incremental communication. Imagine a pair of humans. They communicate ideas and discuss and update their internal 'value-functions' until it converges to consistent, or at least enough to satisfy each person individually.  
+To elaborate on the Reinforcement Learning analogy using jargon:  
+To achieve full agreement on a specific idea (a 'state' in RL), each person has to backup up their 'backup diagram', until both their value functions return the same value for that idea, and their value functions are still self-consistent. To make this analogy more concrete, we need an example from an 'age-old' RL agent, which we describe in our post here:  
+Needs Prior analogy from checkers. Separate Post
 ^ philosophically refine an idea until it's near mathematical
 
 anxiety causing more thought is actually like a double-benefit: once it serves a purpose you let it go. It's like a variable which automatically collects itself when done - but even better - one's reason for the anxiety doesn't need to have anything to do with the thoughts it results in. It's like the pump of a well-oiled machine.
@@ -58,5 +60,7 @@ Most people wouldn't even take the time to read a couple of these takes
 I was anxious about ordering these takes then realized its better for us to do it together. Then we can put this in a shared blog. Now that I think about it we definitely should have a merged blog. distill.pub is a multi-author ML blog but i think we should just both claim full credit to each post on ours, on our resumes etc. Since I already have Jekyll set up we'll just use mine and i'll rename the repo/site
 
 Maybe I was wrong and not only does real-life meta-thinking require the same techniques as Derivative Clicker, but it has the same mechanics. Compounding advantage.
+
+When stressed about a specific external problem, dedicate discrete, incremental periods of time to analyze the problem from first principles.
 
 Please email all critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu).
