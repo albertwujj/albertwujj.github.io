@@ -1,6 +1,10 @@
-Towards proving the infinite potential of humans
+---
+layout: page
+title:  'Towards proving the infinite potential of humans'
+permalink: /infinitepotential
+---
 
-Ah I realize how people can be in 100% agreement even if everything is constructed, as long as they communicate. They just communicate their ideas/values and then both continue discussing and updating their functions until it almost (close enoughly) converges to consistent.
+I realize how people can be in 100% agreement even if everything is constructed, as long as they communicate. They just communicate their ideas/values and then both continue discussing and updating their functions until it almost (close enoughly) converges to consistent.
 So not 100% as in 100% but as in as much as satisfies them individually. To elaborate on 2-person full agreement - I mean full agreement on a specific idea (in my analogy a 'state'), which then each person has to backup to be the same as each other, and still consistent with their value function of their other ideas
 ^ philosophically refine an idea until it's near mathematical
 
