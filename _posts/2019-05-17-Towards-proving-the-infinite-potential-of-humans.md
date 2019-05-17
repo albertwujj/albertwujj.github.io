@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  'Towards proving the infinite potential of humans'
+title:  'Towards proving the infinite potential of humans. aka a collection of aphorisms'
 permalink: /infinitepotential
 ---
 
