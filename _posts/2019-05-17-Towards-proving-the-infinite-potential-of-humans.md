@@ -59,4 +59,4 @@ I was anxious about ordering these takes then realized its better for us to do i
 
 Maybe I was wrong and not only does real-life meta-thinking require the same techniques as Derivative Clicker, but it has the same mechanics. Compounding advantage.
 
-Please email all critique to albertwujj@gmail.com (Albert Wu) or timerox888@gmail.com (Aaron Wu).
+Please email all critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu).
