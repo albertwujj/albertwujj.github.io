@@ -6,6 +6,8 @@ permalink: /infinitepotential
 
 > I swear, it's like the outgroup doesn't even WANT to live in the tradeoff-free fantasy world I'm bludgeoning them over the head with - @webdevMason
 
+*Note: AAron (the authors) are upper-middle class American citizens, thus their perspective is heavily biased. The following is currently largely targeted toward people in similar socio-economic situations.*
+
 I realize how people can be in 100% agreement even if everything is constructed, as long as they communicate. They just communicate their ideas/values and then both continue discussing and updating their functions until it almost (close enoughly) converges to consistent.
 So not 100% as in 100% but as in as much as satisfies them individually. To elaborate on 2-person full agreement - I mean full agreement on a specific idea (in my analogy a 'state'), which then each person has to backup to be the same as each other, and still consistent with their value function of their other ideas
 ^ philosophically refine an idea until it's near mathematical
