@@ -58,3 +58,5 @@ Most people wouldn't even take the time to read a couple of these takes
 I was anxious about ordering these takes then realized its better for us to do it together. Then we can put this in a shared blog. Now that I think about it we definitely should have a merged blog. distill.pub is a multi-author ML blog but i think we should just both claim full credit to each post on ours, on our resumes etc. Since I already have Jekyll set up we'll just use mine and i'll rename the repo/site
 
 Maybe I was wrong and not only does real-life meta-thinking require the same techniques as Derivative Clicker, but it has the same mechanics. Compounding advantage.
+
+Please email all critique to albertwujj@gmail.com (Albert Wu) or timerox888@gmail.com (Aaron Wu).
