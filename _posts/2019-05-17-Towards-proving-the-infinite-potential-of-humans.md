@@ -14,7 +14,7 @@ We believe all humans have limitless potential with just two things: Zero extern
 Everything is constructed. Everything is an opinion. How do we even function? The answer is calm, honest, incremental communication. Imagine a pair of humans. They communicate ideas and discuss and update their internal 'value-functions' until their evaluation of the idea at hand converges to consistent, or at least close enough towards it to satisfy each person individually.  
 
 To elaborate on this Reinforcement Learning analogy:  
-To achieve full agreement on a specific idea (a 'state'), each person has to backup along their backup diagram until both their value functions return the same value for the idea at hand, and their value functions are self-consistent. To make this analogy more concrete, we need to take look at Arthur Samuel's preliminary RL agent, a checkers player (1967). We shall expand on this later.
+To achieve full agreement on a specific idea (a 'state'), each person has to backup along their backup diagram until both their value functions return the same value for the idea at hand, and their value functions are self-consistent. To make this analogy more concrete, we need to take look at Arthur Samuel's preliminary RL agent, a checkers player (1967). We will expand on this later.
 
 So much of creation has two orthogonal parts. In writing you have to deliberately alternate between creating and critiquing, but not do both at same time.
 
@@ -30,7 +30,7 @@ The initial friction against wanting to be immortal is the misconception one has
 yet there is always more to explore. Just like the Reinforcement Learning conditions on e-greedy epsilon or stepsize alpha for convergence.  
 Tangential hypothesis: A human can live their life without ever shutting their eyes to sleep.
 
-One may have self-doubt even with a shitton of aphorisms, but that is because they think they'll forget the lessons learned. Just like DRAM, refreshing is necessary. However, in humans, the refresh interval gets longer and longer exponentially (think spaced reptition. A good tool for this is Anki). Thus you can literally learn infinite with time, as power series converge. To make it concrete: given infinite time, if you can keep up with Anki, you can learn infinite. We will expand on this later, turning it into mathematical proposition.
+One may have self-doubt even with a shitton of aphorisms, but that is because they think they'll forget the lessons learned. Just like DRAM, refreshing is necessary. However, in humans, the refresh interval gets longer and longer exponentially (think spaced reptition. A good tool for this is Anki). Thus you can literally learn infinite with time, as power series converge. To make it concrete: given infinite time, if you can keep up with Anki, you can learn infinite. We will expand on this later, turning it into a mathematical proposition.
 
 
 We learn and create new things because everyone who has ever existed has had or now has access to what no one ever had before. Standing on the shoulders of giants. Great mathematicians, for example, didn't have Reinforcement Learning analogies to work with.
