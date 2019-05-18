@@ -27,10 +27,10 @@ Personally I'd always had a fear of the infinite and infinitesimal.
 [Matt Stonie](https://www.youtube.com/channel/UCd1fLoVFooPeWqCEYVUJZqg) is an example of unintuitive human capabilities.
 
 The initial friction against wanting to be immortal is the misconception one has limited energy. Moreover, everything can always be improved in the limit, 
-yet there is always more to explore. just like the Reinforcement Learning conditions on e-greedy epsilon or stepsize alpha for convergence.  
+yet there is always more to explore. Just like the Reinforcement Learning conditions on e-greedy epsilon or stepsize alpha for convergence.  
 Tangential hypothesis: A human can live their life without ever shutting their eyes to sleep.
 
-One may have self-doubt even with a shitton of aphorisms, but that is because they think they will forget the lessons learned. Just like DRAM, refreshing is necessary. However, in humans, the refresh interval gets longer and longer exponentially (think spaced reptition. A good tool for this is Anki). Thus you can literally learn infinite with time, as power series converge. To make it concrete: given infinite time, if you can keep up with Anki, you can learn infinite. ---> elaborate
+One may have self-doubt even with a shitton of aphorisms, but that is because they think they'llforget the lessons learned. Just like DRAM, refreshing is necessary. However, in humans, the refresh interval gets longer and longer exponentially (think spaced reptition. A good tool for this is Anki). Thus you can literally learn infinite with time, as power series converge. To make it concrete: given infinite time, if you can keep up with Anki, you can learn infinite. ---> elaborate
 
 
 We learn and create new things because everyone who has ever existed has had or now has access to what no one ever had before. Standing on the shoulders of giants. Great mathematicians, for example, didn't have Reinforcement Learning nalogies to work with.
@@ -71,19 +71,21 @@ When stressed about a specific external problem, dedicate discrete, incremental 
 
 Philosophically refine an idea until it's near mathematical.
 
-2 things we have dogs don’t: We can direct action. I can arbitrarily choose to spit on my floor and go clean it up right now. And we have the ability to reflect/meta-think at arbitrary levels (for a stupid example see the web-game Derivative Clicker).
+2 things we have dogs don’t: We can direct action. I can arbitrarily choose to spit on my floor and clean it up right now. And we have the ability to reflect/meta-think at arbitrary levels (for a stupid example see the web-game Derivative Clicker).
 
 We absolutely have wondrous superpowers and magical gifts compared to people 100 years ago. It’s not about a sense of wonder. It’s about reflecting honestly on it.
 
 If you’re honest with yourself about the effect of technology on you, you can begin to free yourself from its grasp.
 
-Our priors of the world (see our RL checkers post) we believe maybe at least half of Americans share.
+We believe maybe half of people in similar situations to us share our same priors originating from childhood and evolution.
 
-Force your priors into the ones you deeply want. In Reinforcement Learning, the value function is the prior if your perspective is an individual timestep. 
+Force your priors into the ones you deeply want. In Reinforcement Learning, the value function is the prior from the perspective of an individual timestep. 
 
 The process of recall for memory is more helpful than one might think, because in addition to storing inputs, our memory also stores intermediate computations.
 
 Never think the same thought twice in a row. You’re literally getting 0 new information. Spaced repetition can help with receiving new random seeds when revisiting thoughts.
+
+Afraid to self-reflect? Feel like you're biased? Afraid nothing's real?. Try pretending you’re analyzing an alien, not a human.
 
 We have a single anecdote of a person who (we believe) shows that anything is possible for anyone: our author Albert. In elementary school, he was just about the slowest person in his classes, many times being literally the last person to finish a project. During middle and high school he never participated in any extra-curricular activities, except a stint with cross-country. Every single lunch he ate alone, every single time. He failed his classes in 10th grade, with a 2nd semester GPA of less than 1.0. Along with his bro Aaron, he is writing this piece now.
 
