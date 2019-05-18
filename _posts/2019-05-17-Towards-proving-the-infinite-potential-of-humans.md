@@ -64,13 +64,13 @@ Achieve certainty without external dependencies: You can gain confidence in the 
 
 Most people wouldn't even take the time to read a couple of these takes.
 
-Maybe I was wrong and not only does real-life meta-thinking require the same techniques as the web-game Derivative Clicker, but it has the same mechanics. Compounding advantage.
+Maybe I was wrong and not only does real-life meta-thinking require the same techniques as the web-game [Derivative Clicker](https://gzgreg.github.io/DerivativeClicker/), but it has the same mechanics. Compounding advantage.
 
 When stressed about a specific external problem, dedicate discrete, incremental periods of time to analyze the problem from first principles.
 
 Philosophically refine an idea until it's near mathematical.
 
-2 things we have dogs don’t: We can direct action. I can arbitrarily choose to spit on my floor and clean it up right now. And we have the ability to reflect/meta-think at arbitrary levels (for a stupid example see the web-game Derivative Clicker).
+2 things we have dogs don’t: We can direct action. I can arbitrarily choose to spit on my floor and clean it up right now. And we have the ability to reflect/meta-think at arbitrary levels (for a stupid example see Derivative Clicker).
 
 We absolutely have wondrous superpowers and magical gifts compared to people 100 years ago. It’s not about a sense of wonder. It’s about reflecting honestly on it.
 
