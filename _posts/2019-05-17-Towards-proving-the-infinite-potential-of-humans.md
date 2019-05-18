@@ -14,7 +14,7 @@ We believe all humans have limitless potential with just two things: Zero extern
 Everything is constructed. Everything is an opinion. How do we even function? The answer is calm, honest, incremental communication. Imagine a pair of humans. They communicate ideas and discuss and update their internal 'value-functions' until their evaluation of the idea at hand converges to consistent, or at least close enough towards it to satisfy each person individually.  
 
 To elaborate on this Reinforcement Learning analogy:  
-To achieve full agreement on a specific idea (a 'state'), each person has to backup along their backup diagram until both their value functions return the same value for the idea at hand, and their value functions are self-consistent. To make this analogy more concrete, we need need to look at Arthur Samuel's preliminary RL agent, a checkers player (1967). Our post on this is coming. Refer to Sutton & Barto 16.2 for a 
+To achieve full agreement on a specific idea (a 'state'), each person has to backup along their backup diagram until both their value functions return the same value for the idea at hand, and their value functions are self-consistent. To make this analogy more concrete, we need to take look at Arthur Samuel's preliminary RL agent, a checkers player (1967). We shall expand on this later.
 
 So much of creation has two orthogonal parts. In writing you have to deliberately alternate between creating and critiquing, but not do both at same time.
 
