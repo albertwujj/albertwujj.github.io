@@ -32,7 +32,6 @@ Tangential hypothesis: A human can live their life without ever shutting their e
 
 One may have self-doubt even with a shitton of aphorisms, but that is because they think they'll forget the lessons learned. Just like DRAM, refreshing is necessary. However, in humans, the refresh interval gets longer and longer exponentially (think spaced reptition. A good tool for this is [Anki](https://apps.ankiweb.net/)). Thus you can literally learn infinite with time, as power series converge. To make it concrete: given infinite time, if you can keep up with Anki, you can learn infinite. We will expand on this later, turning it into a mathematical proposition.
 
-
 We learn and create new things because everyone who has ever existed has had or now has access to what no one ever had before. Standing on the shoulders of giants. Great mathematicians, for example, didn't have Reinforcement Learning analogies to work with.
 
 If you live forever you can literally do anything, as long as it follows the laws of physics. You can additionally teach anyone anything as long as they also live forever.
@@ -87,7 +86,11 @@ Never think the same thought twice in a row. You’re literally getting 0 new in
 
 Afraid to self-reflect? Feel like you're biased? Afraid nothing's real?. Try pretending you’re analyzing an alien, not a human.
 
-We have a single anecdote of a person who (we believe) shows that anything is possible for anyone: our author Albert. In elementary school, he was just about the slowest person in his classes, many times being literally the last person to finish a project. During middle and high school he never participated in any extra-curricular activities, except a stint with cross-country. Every single lunch he ate alone, every single time. He failed his classes in 10th grade, with a 2nd semester GPA of less than 1.0. Along with his bro Aaron, he is writing this piece now.
+Once you learn to optimize everything else, it's so trivial to optimize yourself.
+
+Join our club. It’s the ‘do what you want club’. You do want you want, any time, all the time. There’s infinite recursive levels of self-reflection to choose from. Although we're only accepting the upper-middle class right now. We hope to change that.
+
+We have a single anecdote of a person who (we believe) shows that anything is possible: our author Albert. In elementary school, he was just about the slowest person in his classes, many times being literally the last person to finish a project. During middle and high school he never participated in any extra-curricular activities, except a stint with cross-country. Every single lunch he ate alone, every single time. He failed his classes in 10th grade, with a 2nd semester GPA of less than 1.0. Along with his bro Aaron, he is writing this piece now.
 
 We don't think we can save the world. But we will certainly try.
 
