@@ -5,9 +5,9 @@ permalink: /infinitepotential
 ---
 > I swear, it's like the outgroup doesn't even WANT to live in the tradeoff-free fantasy world I'm bludgeoning them over the head with - @webdevMason
 
-#####Note: We are upper-middle class American citizens (or as our parents naively love to call it, 'still working poor'). The following is currently primarily targeted toward people in similar socio-economic situations.
+__Note: We are upper-middle class American citizens (or as our parents naively love to call it, 'still working poor'). The following is currently primarily targeted toward people in similar socio-economic situations.__
 
-#####Our piece is largely a collection of aphorisms with a narrative.
+__Our piece is largely a collection of aphorisms with a narrative.__
 
 We believe all humans have limitless potential with just two things: Zero external pressure. One hundred percent self-honesty. The latter follows the former.
 
