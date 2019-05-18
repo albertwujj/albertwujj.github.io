@@ -13,13 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: A Mathematical World 
+title: A Mathematical World
+author: albertwujj
 email: timerox888@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Philosophy, math, and Reinforcement Learning analogies. Thanks Sutton and Barto.
 
+show_excerpts: false # set to true to show excerpts on the homepage
+
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: albertwujj
 
 # Build settings
@@ -27,6 +29,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
