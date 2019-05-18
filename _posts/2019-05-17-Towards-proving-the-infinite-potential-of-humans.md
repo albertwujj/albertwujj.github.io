@@ -5,15 +5,18 @@ permalink: /infinitepotential
 ---
 > I swear, it's like the outgroup doesn't even WANT to live in the tradeoff-free fantasy world I'm bludgeoning them over the head with - @webdevMason
 
-*Note: We are upper-middle class American citizens (or as our parents naively love to call it, 'still working poor'). The following is currently largely targeted toward people in similar socio-economic situations.*
+#####Note: We are upper-middle class American citizens (or as our parents naively love to call it, 'still working poor'). The following is currently primarily targeted toward people in similar socio-economic situations.
 
-Following is a collection of aphorisms with a narrative:
+#####Our piece is largely a collection of aphorisms with a narrative.
 
-Everything is constructed. Everything is an opinion. How do we even function? The answer is calm, honest, incremental communication. Imagine a pair of humans. They communicate ideas and discuss and update their internal 'value-functions' until their evaluation of the idea at hand converges to consistent, or at least close enough to consistent to satisfy each person individually.  
+We believe all humans have limitless potential with just two things: Zero external pressure. One hundred percent self-honesty. The latter follows the former.
 
-To elaborate on the Reinforcement Learning analogy:  
-To achieve full agreement on a specific idea (a 'state'), each person has to backup along their backup diagram until both their value functions return the same value for the idea at hand, and their value functions are self-consistent. To make this analogy more concrete, we need an example from an [age-old RL checkers agent](https://albertwujj.github.io)
+Everything is constructed. Everything is an opinion. How do we even function? The answer is calm, honest, incremental communication. Imagine a pair of humans. They communicate ideas and discuss and update their internal 'value-functions' until their evaluation of the idea at hand converges to consistent, or at least close enough towards it to satisfy each person individually.  
 
+To elaborate on this Reinforcement Learning analogy:  
+To achieve full agreement on a specific idea (a 'state'), each person has to backup along their backup diagram until both their value functions return the same value for the idea at hand, and their value functions are self-consistent. To make this analogy more concrete, we need need to look at Arthur Samuel's preliminary RL agent, a checkers player (1967). Our post on this is coming. Refer to Sutton & Barto 16.2 for a 
+
+So much of creation has two orthogonal parts. In writing you have to deliberately alternate between creating and critiquing, but not do both at same time.
 
 Anxiety resulting in more reflection/reconsideration is actually a double-benefit: once it serves a purpose you can let it go. It's like a variable which automatically collects itself when done - but even better - the reason for the anxiety need not have anything to do with what it spawns. It's like the pump of a well-oiled machine.
 
@@ -49,6 +52,8 @@ Don't explain something to someone if they can explain it better to themselves.
 Don't overestimate your past self or underestimate your future self.
 
 We are galaxies orbiting black holes. Naked loneliness is a highly productive feeling. One might think it is necessary to depend on others' gravities, but really you must not fall under their influence.
+
+Don't just give risks thought proportional to their probability times impact. Give low probability risks zero thought. Humans cannot consider that many ideas simultaneuosly. We're not neural networks.
 
 No matter what, I have absolute belief I can keep on spinning.
 
