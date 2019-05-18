@@ -30,7 +30,7 @@ The initial friction against wanting to be immortal is the misconception one has
 yet there is always more to explore. Just like the Reinforcement Learning conditions on e-greedy epsilon or stepsize alpha for convergence.  
 Tangential hypothesis: A human can live their life without ever shutting their eyes to sleep.
 
-One may have self-doubt even with a shitton of aphorisms, but that is because they think they'll forget the lessons learned. Just like DRAM, refreshing is necessary. However, in humans, the refresh interval gets longer and longer exponentially (think spaced reptition. A good tool for this is Anki). Thus you can literally learn infinite with time, as power series converge. To make it concrete: given infinite time, if you can keep up with Anki, you can learn infinite. We will expand on this later, turning it into a mathematical proposition.
+One may have self-doubt even with a shitton of aphorisms, but that is because they think they'll forget the lessons learned. Just like DRAM, refreshing is necessary. However, in humans, the refresh interval gets longer and longer exponentially (think spaced reptition. A good tool for this is [Anki](https://apps.ankiweb.net/)). Thus you can literally learn infinite with time, as power series converge. To make it concrete: given infinite time, if you can keep up with Anki, you can learn infinite. We will expand on this later, turning it into a mathematical proposition.
 
 
 We learn and create new things because everyone who has ever existed has had or now has access to what no one ever had before. Standing on the shoulders of giants. Great mathematicians, for example, didn't have Reinforcement Learning analogies to work with.
