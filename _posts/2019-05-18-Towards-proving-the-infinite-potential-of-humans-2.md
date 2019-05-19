@@ -35,7 +35,7 @@ Pomodoro is helpful.
 
 I'm playing a game, but in that game I'm playing the same game. Just like turtles all the way down.
 
-Don't just second-guess your self. Or just third-guess yourself. Second-guess your second-guess. Just choose one. This is how you create infinite novelty.
+Don't just second-guess your self. Or just third-guess yourself. Second-guess your second-guess. Just choose one. This is how you create infinite novelty. For a stupid game see [Derivative Clicker](derivativeclicker.com)
 
 People are sad. We can do a lot more for other people, then we can do for ourselves.
 
@@ -64,6 +64,8 @@ Isolate yourself completely from social media after 10pm.
 Doing what you're not necessarily sure is the right thing can create positive tension.
 
 We can literally choose the priors for our children in the future.
+
+My younger brother @wuaaro is my best math teacher I could have ever imagined.
 
 Everyone has the natural intuition for saving the world.
 
