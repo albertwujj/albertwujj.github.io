@@ -67,6 +67,8 @@ We can literally choose the priors for our children in the future.
 
 @wuaaro is my best math teacher I could have ever imagined.
 
+Positive self-reflection is stupid when you can control your hormones.
+
 Everyone has the natural intuition for saving the world.
 
 
