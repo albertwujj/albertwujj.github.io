@@ -47,8 +47,10 @@ Any pair can have what siblings have. It only requires no ego and deliberate com
 
 If it's important, it'll come back to you.
 
-Save the world/e.g. enlighten everyone
+Save the world/e.g. free everyone.
+
+In order to train an RL agent, you must think like one.
 
 Learning should not be discrete. It should be infinitesimally small in the limit
 
-Everyone has the natural intuition for saving the world
+Everyone has the natural intuition for saving the world.
