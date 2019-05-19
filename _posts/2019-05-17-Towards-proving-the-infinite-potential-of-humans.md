@@ -24,7 +24,7 @@ Certain CEOs believing everything is a simulation makes perfect sense from an op
 It's the result of a human mind that can deal with both the infinite, the infinitesimal, the meta, and the lack of ego.
 Personally I'd always had a fear of the infinite and infinitesimal.
 
-[Matt Stonie](https://www.youtube.com/channel/UCd1fLoVFooPeWqCEYVUJZqg) is an example of unintuitive human capabilities.
+[Matt Stonie](https://www.youtube.com/channel/UCd1fLoVFooPeWqCEYVUJZqg) is an example of unintuitive human capabilities. So is [Danielle Steel](https://www.glamour.com/story/danielle-steel-books-interview).
 
 The initial friction against wanting to be immortal is the misconception one has limited energy. Moreover, everything can always be improved in the limit, 
 yet there is always more to explore. Just like the Reinforcement Learning conditions on e-greedy epsilon or stepsize alpha for convergence.  
@@ -123,6 +123,8 @@ See the sadness in the world to realize we have a job. We have a much more inter
 Free thinking is what makes us human.
 
 Humans are variables too.
+
+Pomodoro is helpful.
 
 I'm playing a game, but in that game I'm playing the same game. Just like turtles all the way down.
 
