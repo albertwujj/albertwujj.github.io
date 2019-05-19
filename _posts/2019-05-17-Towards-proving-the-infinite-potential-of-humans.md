@@ -60,7 +60,7 @@ Happiness is nowhere near as productive a concept as learning.
 
 The goal is to align what you want with what you want, which is fully achievable in the limit.
 
-Achieve certainty without external dependencies: You can gain confidence in the correctness of your hypotheses by telling yourself to do something and doing it.
+Achieve certainty without external dependencies: You can gain confidence in the correctness of your hypotheses by telling yourself to do something and doing it. See [Paul Erdos](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) on amphetamines.
 
 Most people wouldn't even take the time to read a couple of these takes.
 

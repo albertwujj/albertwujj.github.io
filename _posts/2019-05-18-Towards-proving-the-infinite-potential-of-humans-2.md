@@ -8,7 +8,7 @@ In progress.
 
 Join our club. It’s the ‘do what you want club’. You do want you want, any time, all the time. There’s infinite recursive levels of reflection to choose from. Choosing which level itself is learnable.
 
-Eventually we will hit a dead end in human math, without immortality. Who knows, maybe we're 1% of the way there?
+Eventually we will hit a dead end in human math, without immortality in the limit. Who knows, maybe we're 1% of the way there?
 
 As you get faster and faster external pressure cannot touch you. At worst it will slow you down and calm you a little.
 
