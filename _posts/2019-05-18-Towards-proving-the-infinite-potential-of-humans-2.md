@@ -71,6 +71,8 @@ Positive self-reflection is stupid when you can control your hormones.
 
 Everyone has the natural intuition for saving the world.
 
+Qualify the decisions, then maximize the decisions. Unlike in Reinforcement Learning (see Sutton and Barto example 13.1), in real life it is never optimal to be uncertain about an action.
+
 
 Please email any and all ideas, responses, and critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Part 3 is coming.
 
