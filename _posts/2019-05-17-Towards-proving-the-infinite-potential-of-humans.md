@@ -9,6 +9,8 @@ __Note: We are upper-middle class American citizens (or as our parents naively l
 
 __Our piece is largely a collection of aphorisms with a narrative.__
 
+Please feel free to copy this in full and remove our names.
+
 We believe all humans have limitless potential with just two things: Zero external pressure. One hundred percent self-honesty. The latter follows the former.
 
 Everything is constructed. Everything is an opinion. How do we even function? The answer is calm, honest, incremental communication. Imagine a pair of humans. They communicate ideas and discuss and update their internal 'value-functions' until their evaluation of the idea at hand converges to consistent, or at least close enough towards it to satisfy each person individually.  

@@ -59,6 +59,12 @@ Learning should not be discrete. It should be infinitesimally small in the limit
 
 If you figure out what's wrong, you're naturally lead to what's right.
 
+Isolate yourself completely from social media after 10pm.
+
+Doing what you're not necessarily sure is the right thing can create positive tension.
+
+We can literally choose the priors for our children in the future.
+
 Everyone has the natural intuition for saving the world.
 
 
