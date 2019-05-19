@@ -12,5 +12,6 @@ permalink: /library
 * Visual Complex Analysis by Tristan Needham
 * Physics for Scientists and Engineers by Douglas C. Giancoli
 * Elements of the Theory of Functions and Functional Anaylsis by A.N. Kolmogorov and S.V. Fomin
+* QED: The Strange Theory of Light and Matter by Richard Feynman
 * Euclid's Elements, edited by Dana Densmore
 * Isaac Newton's *The Principia*, translated by I. Bernard Cohen and Anne Whitman
