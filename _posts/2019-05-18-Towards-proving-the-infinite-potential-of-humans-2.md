@@ -35,7 +35,7 @@ Pomodoro is helpful.
 
 I'm playing a game, but in that game I'm playing the same game. Just like turtles all the way down.
 
-Don't just second-guess your self. Or just third-guess yourself. Second-guess your second-guess. Just choose one. This is how you create infinite novelty. For a stupid game see [Derivative Clicker](derivativeclicker.com)
+Don't just second-guess your self. Or just third-guess yourself. Second-guess your second-guess. Just choose one. This is how you create infinite novelty. For a stupid game see [Derivative Clicker](https://gzgreg.github.io/DerivativeClicker/).
 
 People are sad. We can do a lot more for other people, then we can do for ourselves.
 
