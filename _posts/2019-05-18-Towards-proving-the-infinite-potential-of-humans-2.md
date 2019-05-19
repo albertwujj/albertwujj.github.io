@@ -41,6 +41,8 @@ People are sad. We can do a lot more for other people, then we can do for oursel
 
 Full control over our hormones.  
 
+We got this.
+
 Cult of freedom.
 
 Any pair can have what siblings have. It only requires no ego and deliberate communication.
@@ -50,6 +52,8 @@ If it's important, it'll come back to you.
 Save the world/e.g. free everyone.
 
 In order to train an RL agent, you must think like one.
+
+With calm reflection, stress should be the greatest creativity boost.
 
 Learning should not be discrete. It should be infinitesimally small in the limit
 
