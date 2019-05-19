@@ -72,7 +72,7 @@ Philosophically refine an idea until it's near mathematical.
 
 2 things we have dogs don’t: We can direct action. I can arbitrarily choose to spit on my floor and clean it up right now. And we have the ability to reflect/meta-think at arbitrary levels (for a stupid example see Derivative Clicker).
 
-We absolutely have wondrous superpowers and magical gifts compared to people 100 years ago. It’s not about a sense of wonder. It’s about reflecting honestly on it.
+We absolutely have wondrous superpowers and magical gifts compared to people 100 years ago. It’s not about a sense of wonder (we will elaborate on this in time). It’s about reflecting honestly on it.
 
 If you’re honest with yourself about the effect of technology on you, you can begin to free yourself from its grasp.
 
@@ -101,10 +101,9 @@ Join our club. It’s the ‘do what you want club’. You do want you want, any
 
 Not a second layer recursion. A second level recursion (choose among layers). Not a second level. A second floor (choose among levels). And thus you can create infinite novelty. And thus infinite energy.
 
-Eventually hit a dead end in human math, without immortality. Who knows, maybe we're 1% of the way there?
+Eventually we will hit a dead end in human math, without immortality. Who knows, maybe we're 1% of the way there?
 
-
-As you get faster and faster external pres literally cant touch you. its too slow
+As you get faster and faster external pressure cannot touch you. At worst it will slow you down and calm you a little.
 
 
 You don't try to bullshit theorize. You come up with new ideas and see where it all connects. Unless the math really helps people come up with better ideas, which im not so sure. you gotta test it on the real env, after all. the latest best ideas in ML have seemed extremely light on math.
