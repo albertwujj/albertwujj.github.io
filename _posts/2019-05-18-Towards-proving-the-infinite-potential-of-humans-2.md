@@ -55,9 +55,12 @@ In order to train an RL agent, you must think like one.
 
 With calm reflection, stress should be the greatest creativity boost.
 
-Learning should not be discrete. It should be infinitesimally small in the limit
+Learning should not be discrete. It should be infinitesimally small in the limit.
+
+If you figure out what's wrong, you're naturally lead to what's right.
 
 Everyone has the natural intuition for saving the world.
+
 
 Please email any and all ideas, responses, and critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Part 3 is coming.
 
