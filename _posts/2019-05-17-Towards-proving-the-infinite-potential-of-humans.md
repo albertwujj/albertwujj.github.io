@@ -95,4 +95,7 @@ We have a single anecdote of a person who (we believe) shows that anything is po
 We don't think we can save the world. But we will certainly try.
 
 
-Please email any and all ideas, responses, and critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Part 2 is coming.
+Please email any and all ideas, responses, and critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Part 3 is coming.
+
+[Part 1](http://amathematicalworld.com/infinitepotential)  
+[Part 2](http://amathematicalworld.com/infinitepotential2)

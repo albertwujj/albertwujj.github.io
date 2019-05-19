@@ -54,3 +54,8 @@ In order to train an RL agent, you must think like one.
 Learning should not be discrete. It should be infinitesimally small in the limit
 
 Everyone has the natural intuition for saving the world.
+
+Please email any and all ideas, responses, and critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Part 3 is coming.
+
+[Part 1](http://amathematicalworld.com/infinitepotential)  
+[Part 2](http://amathematicalworld.com/infinitepotential2)
