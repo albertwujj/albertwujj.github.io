@@ -89,7 +89,7 @@ We have a single anecdote of a person who (we believe) shows that anything is po
 Everyone has the potential for a self-singularity.
 
 
-Please email critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Part 3 is coming.
+Please email critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Feel free to copy. After all, these are quotes, not original thoughts. Part 3 is coming.
 
 [Part 1](http://amathematicalworld.com/infinitepotential)  
 [Part 2](http://amathematicalworld.com/infinitepotential2)

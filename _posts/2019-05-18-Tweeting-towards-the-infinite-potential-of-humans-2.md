@@ -79,7 +79,7 @@ Qualify the decisions, then maximize the decisions. Unlike in Reinforcement Lear
 
 It's not possible to save the world. But we will certainly try.
 
-Please email critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Part 3 is coming.
+Please email critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Feel free to copy. After all, these are quotes, not original thoughts. Part 3 is coming.
 
 [Part 1](http://amathematicalworld.com/infinitepotential)  
 [Part 2](http://amathematicalworld.com/infinitepotential2)
