@@ -85,7 +85,7 @@ Afraid to self-reflect? Feel like you're biased? Afraid nothing's real?. Try pre
 Once you learn to optimize everything else, it's trivial to optimize yourself.
 
 
-We have a single anecdote of a person who (we believe) shows that anything is possible: our author Albert. He failed his classes with a GPA of less than 1.0. Along with his bro Aaron, he is writing this piece now.
+We have a single anecdote of a person who (we believe) shows that anything is possible: our author Albert. He failed his classes with a GPA of less than 1.0. Along with his bro Aaron, he is writing this tweet.
 
 It's not possible to save the world. But we will certainly try.
 
