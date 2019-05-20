@@ -49,7 +49,7 @@ Any pair can have what siblings have. It only requires no ego and deliberate com
 
 If it's important, it'll come back to you.
 
-Save the world/e.g. free everyone.
+Save the world/e.g. return free will.
 
 In order to train an RL agent, you must think like one.
 
@@ -68,6 +68,8 @@ We can literally choose the priors for our children in the future.
 @wuaaro is my best math teacher I could have ever imagined.
 
 Positive self-reflection is stupid when you can control your hormones.
+
+Our actions live or die on their own merits.
 
 Everyone has the natural intuition for saving the world.
 
