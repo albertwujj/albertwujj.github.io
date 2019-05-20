@@ -17,6 +17,8 @@ Anxiety resulting in more reflection/reconsideration is actually a double-benefi
 
 Believing we are in a simulation is the result of being able to deal with both the infinite, the infinitesimal, the meta, and the lack of ego.
 
+A reduced sense of wonder is key.
+
 [Matt Stonie](https://www.youtube.com/channel/UCd1fLoVFooPeWqCEYVUJZqg) is an example of unintuitive human capabilities. So is [Danielle Steel](https://www.glamour.com/story/danielle-steel-books-interview).
 
 The initial friction against wanting to be immortal is the misconception one has limited energy. Moreover, everything can always be improved in the limit, 
