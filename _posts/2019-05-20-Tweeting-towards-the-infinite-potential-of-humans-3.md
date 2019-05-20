@@ -19,6 +19,10 @@ A good heuristic when you're uncertain is to just go for the most novel
 
 By far the biggest difference in people is their open-mindedness/shyness
 
+It's so hard to convince anyone of anything.
+
+In the ideal world everyone discusses with each other until they each agree to their individual satisifaction.
+
 Please email critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Feel free to copy. After all, these are quotes, not original thoughts. Part 3 is *arriving*. lol
 
 [Part 1](http://amathematicalworld.com/infinitepotential)  
