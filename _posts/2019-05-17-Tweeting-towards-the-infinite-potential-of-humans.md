@@ -84,13 +84,12 @@ Afraid to self-reflect? Feel like you're biased? Afraid nothing's real?. Try pre
 
 Once you learn to optimize everything else, it's trivial to optimize yourself.
 
-
 We have a single anecdote of a person who (we believe) shows that anything is possible: our author Albert. He failed his classes with a GPA of less than 1.0. Along with his bro Aaron, he is writing this tweet.
 
-It's not possible to save the world. But we will certainly try.
+Everyone has the potential for a self-singularity.
 
 
-Please email any and all ideas, responses, and critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Part 3 is coming.
+Please email critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Part 3 is coming.
 
 [Part 1](http://amathematicalworld.com/infinitepotential)  
 [Part 2](http://amathematicalworld.com/infinitepotential2)

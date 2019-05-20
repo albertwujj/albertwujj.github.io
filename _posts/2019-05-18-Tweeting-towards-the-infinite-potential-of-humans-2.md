@@ -74,12 +74,12 @@ Our actions live or die on their own merits.
 
 Because one's anxiety is helpful even if it is not accurate, one may have an overtendency to.
 
-Everyone has the natural intuition for saving the world.
 
 Qualify the decisions, then maximize the decisions. Unlike in Reinforcement Learning (see Sutton and Barto [example 13.1](http://incompleteideas.net/book/RLbook2018.pdf#page=345)), in real life it is never optimal to be uncertain about an action.
 
+It's not possible to save the world. But we will certainly try.
 
-Please email any and all ideas, responses, and critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Part 3 is coming.
+Please email critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Part 3 is coming.
 
 [Part 1](http://amathematicalworld.com/infinitepotential)  
 [Part 2](http://amathematicalworld.com/infinitepotential2)
