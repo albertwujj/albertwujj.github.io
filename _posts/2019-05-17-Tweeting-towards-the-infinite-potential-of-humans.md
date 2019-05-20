@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  'Towards proving the infinite potential of humans'
+title:  'Tweeting towards the infinite potential of humans'
 permalink: /infinitepotential
 ---
 > "If people are open-minded creating a 'human singularity' should be pretty easy. We are connected individuals of 7.7 billion. We continuously improve, not incrementally like an AI singularity would imply. And we can improve exponentially." - a dreamer

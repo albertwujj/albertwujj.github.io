@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  'Towards proving the infinite potential of humans 2'
+title:  'Tweeting towards the infinite potential of humans 2'
 permalink: /infinitepotential2
 ---
 
