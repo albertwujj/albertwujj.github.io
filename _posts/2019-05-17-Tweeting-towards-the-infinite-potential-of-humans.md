@@ -3,38 +3,30 @@ layout: page
 title:  'Towards proving the infinite potential of humans'
 permalink: /infinitepotential
 ---
-> I swear, it's like the outgroup doesn't even WANT to live in the tradeoff-free fantasy world I'm bludgeoning them over the head with - @webdevMason
+> "If people are open-minded creating a 'human singularity' should be pretty easy. We are connected individuals of 7.7 billion. We continuously improve, not incrementally like an AI singularity would imply. And we can improve exponentially." - a dreamer
 
-__Note: We are upper-middle class American citizens (or as our parents naively love to call it, 'still working poor'). The following is currently primarily targeted toward people in similar socio-economic situations.__
 
-__Our piece is largely a collection of aphorisms with a narrative.__
 
-Please feel free to copy this in full and remove our names. This line gives you permission to do so.
+We believe everyone has limitless potential with two things: Zero external pressure. One hundred percent self-honesty. The latter follows the former.
 
-We believe all humans have limitless potential with just two things: Zero external pressure. One hundred percent self-honesty. The latter follows the former.
-
-Everything is constructed. Everything is an opinion. How do we even function? The answer is calm, honest, incremental communication. Imagine a pair of humans. They communicate ideas and discuss and update their internal 'value-functions' until their evaluation of the idea at hand converges to consistent, or at least close enough towards it to satisfy each person individually.  
-
-To elaborate on this Reinforcement Learning analogy:  
-To achieve full agreement on a specific idea (a 'state'), each person has to backup along their backup diagram until both their value functions return the same value for the idea at hand, and their value functions are self-consistent. Our priors are slightly plastic. But we accept that they should be (somewhat) different even in the limit. To make this analogy more concrete, we need to take look at Arthur Samuel's preliminary RL agent, a checkers player (1967). We will expand on this later.
+Everything is constructed. Everything is an opinion. How do we even function? The answer is calm, honest, incremental communication. 
 
 So much of creation has two orthogonal parts. In writing you have to deliberately alternate between creating and critiquing, but not do both at same time.
 
-Anxiety resulting in more reflection/reconsideration is actually a double-benefit: once it serves a purpose you can let it go. It's like a variable which automatically collects itself when done - but even better - the reason for the anxiety need not have anything to do with what it spawns. It's like the ever-accelerating pump of a self-improving well-oiled machine.
+Anxiety resulting in more reflection/reconsideration is actually a double-benefit: once it serves a purpose you can let it go. 
 
-Certain CEOs believing everything is a simulation makes perfect sense from an open-minded, first-principles standpoint.  
-It's the result of a human mind that can deal with both the infinite, the infinitesimal, the meta, and the lack of ego.
-Personally I'd always had a fear of the infinite and infinitesimal.
+Believing we are in a simulation is the result of being able to deal with both the infinite, the infinitesimal, the meta, and the lack of ego.
 
 [Matt Stonie](https://www.youtube.com/channel/UCd1fLoVFooPeWqCEYVUJZqg) is an example of unintuitive human capabilities. So is [Danielle Steel](https://www.glamour.com/story/danielle-steel-books-interview).
 
 The initial friction against wanting to be immortal is the misconception one has limited energy. Moreover, everything can always be improved in the limit, 
-yet there is always more to explore. Just like the Reinforcement Learning conditions on e-greedy epsilon or stepsize alpha for convergence.  
-Tangential hypothesis: A human can live their life without ever shutting their eyes to sleep.
+yet there is always more to explore. Like the [RL convergence conditions](http://incompleteideas.net/book/RLbook2018.pdf#page=55) on epsilon or alpha. 
+
+Bold hypothesis: A human can live their life without ever shutting their eyes to sleep.
 
 One may have self-doubt even with a shitton of aphorisms, but that is because they think they'll forget the lessons learned. Just like [DRAM](https://en.wikipedia.org/wiki/Dynamic_random-access_memory), refreshing is necessary. However, in humans, the refresh interval gets longer and longer exponentially (think spaced reptition. A good tool for this is [Anki](https://apps.ankiweb.net/)). Thus you can literally learn infinite with time, as power series converge. To make it concrete: given infinite time, if you can keep up with Anki, you can learn infinite. We will expand on this later, turning it into a mathematical proposition.
 
-We learn and create new things because everyone who has ever existed has had or now has access to what no one ever had before. Standing on the shoulders of giants. Great mathematicians, for example, didn't have Reinforcement Learning analogies to work with.
+We learn and create new things because everyone who has ever existed has had access to what no one ever had before. Past scientists, for example, didn't have Reinforcement Learning analogies to work with.
 
 If you live forever you can literally do anything, as long as it follows the laws of physics. You can additionally teach anyone anything as long as they also live forever.
 
@@ -42,9 +34,9 @@ Always just take notes, unless you believe there is a very high probability you 
 
 I never worry whatsover about writing anymore. It's just a choice to no longer spend more time critiquing, qualifying, or adding more ideas. Similarly with decision making. My body generates anxiety but this is a benefit.
 
-You don't need to believe humans exist to prove the stuff I'm saying.
+You don't need to believe humans exist to prove stuff.
 
-Starting to learn math is like an introduction to meta-thinking
+Starting to learn math is like an introduction to meta-thinking.
 
 You need to write low-friction pieces if you want to be worth the time to your readers.
 
@@ -58,13 +50,15 @@ Don't just give risks thought proportional to their probability times impact. Gi
 
 No matter what, I have absolute belief I can keep on spinning.
 
+Only the gradient matters.
+
 Happiness is nowhere near as productive a concept as learning.
 
 The goal is to align what you want with what you want, which is fully achievable in the limit.
 
 Achieve certainty without external dependencies: You can gain confidence in the correctness of your hypotheses by telling yourself to do something and doing it. See [Paul Erdos](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) on amphetamines.
 
-Most people wouldn't even take the time to read a couple of these takes.
+Most people wouldn't even take the time to read a couple of these texts.
 
 Maybe I was wrong and not only does real-life meta-thinking require the same techniques as the web-game [Derivative Clicker](https://gzgreg.github.io/DerivativeClicker/), but it has the same mechanics. Compounding advantage.
 
@@ -72,9 +66,9 @@ When stressed about a specific external problem, dedicate discrete, incremental 
 
 Philosophically refine an idea until it's near mathematical.
 
-2 things we have dogs don’t: We can direct action. I can arbitrarily choose to spit on my floor and clean it up right now. And we have the ability to reflect/meta-think at arbitrary levels (for a stupid example see Derivative Clicker).
+2 things we have dogs don’t: We can direct action. I can arbitrarily choose to lick the table. And we have the ability to reflect/meta-think at arbitrary levels (for a stupid example see Derivative Clicker).
 
-We absolutely have wondrous superpowers and magical gifts compared to people 100 years ago. It’s not about a sense of wonder (we will elaborate on this in time). It’s about reflecting honestly on it.
+We absolutely have wondrous superpowers and magical gifts compared to people 100 years ago. It’s not about a sense of wonder (I will elaborate on this). It’s about reflecting honestly on it.
 
 If you’re honest with yourself about the effect of technology on you, you can begin to free yourself from its grasp.
 
@@ -88,13 +82,12 @@ Never think the same thought twice in a row. You’re literally getting 0 new in
 
 Afraid to self-reflect? Feel like you're biased? Afraid nothing's real?. Try pretending you’re analyzing an alien, not a human.
 
-Once you learn to optimize everything else, it's so trivial to optimize yourself.
+Once you learn to optimize everything else, it's trivial to optimize yourself.
 
 
+We have a single anecdote of a person who (we believe) shows that anything is possible: our author Albert. He failed his classes with a GPA of less than 1.0. Along with his bro Aaron, he is writing this piece now.
 
-We have a single anecdote of a person who (we believe) shows that anything is possible: our author Albert. In elementary school, he was just about the slowest person in his classes, many times being literally the last person to finish a project. During middle and high school he never participated in any extra-curricular activities, except a stint with cross-country. Every single lunch he ate alone, every single time. He failed his classes in 10th grade, with a 2nd semester GPA of less than 1.0. Along with his bro Aaron, he is writing this piece now.
-
-We don't think we can save the world. But we will certainly try.
+It's not possible to save the world. But we will certainly try.
 
 
 Please email any and all ideas, responses, and critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Part 3 is coming.

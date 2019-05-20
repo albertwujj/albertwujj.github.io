@@ -38,33 +38,31 @@ Pomodoro is helpful.
 
 I'm playing a game, but in that game I'm playing the same game. Just like turtles all the way down.
 
-Don't just second-guess your self. Or just third-guess yourself. Second-guess your second-guess. Just choose one. This is how you create infinite novelty. For a stupid game see [Derivative Clicker](https://gzgreg.github.io/DerivativeClicker/).
+Don't just second-guess your self. Or just third-guess yourself. Second-guess your second-guess. Just choose a layer. This is how you create infinite novelty. For a stupid game see [Derivative Clicker](https://gzgreg.github.io/DerivativeClicker/).
 
-People are sad. We can do a lot more for other people then we can do for ourselves.
+Correcting yourself is an even more direct way to create novelty.
+
+Just because a issue requires qualification doesn't mean you should skip over it.
 
 Full control over our hormones.  
 
-We got this.
-
 Cult of freedom.
-
-Any pair can have what siblings have. It only requires no ego and deliberate communication.
 
 If it's important, it'll come back to you.
 
-Save the world/e.g. return free will.
+Do you lack free will?
 
 In order to train an RL agent, you must think like one.
 
 With calm reflection, stress should be the greatest creativity boost.
-
-Learning should not be discrete. It should be infinitesimally small in the limit.
 
 If you figure out what's wrong, you're naturally lead to what's right.
 
 Isolate yourself completely from social media after 10pm.
 
 Doing what you're not necessarily sure is the right thing can create positive tension.
+
+People are sad. One can do a lot more for other people then they can do for themself.
 
 We can literally choose the priors for our children in the future.
 
@@ -73,6 +71,8 @@ We can literally choose the priors for our children in the future.
 Positive self-reflection is stupid when you can control your hormones.
 
 Our actions live or die on their own merits.
+
+Because one's anxiety is helpful even if it is not accurate, one may have an overtendency to.
 
 Everyone has the natural intuition for saving the world.
 
