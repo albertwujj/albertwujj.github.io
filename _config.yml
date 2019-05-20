@@ -16,7 +16,7 @@
 title: A Mathematical World
 email: timerox888@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Philosophy, math, and Reinforcement Learning analogies. Thanks Sutton and Barto. 
+ Philosophy, (zero) math, and Reinforcement Learning analogies. Thanks Sutton and Barto. 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 twitter_username: wuaaro
