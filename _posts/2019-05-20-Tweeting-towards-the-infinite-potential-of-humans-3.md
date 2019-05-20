@@ -15,7 +15,11 @@ It's ok to be [far from the shallow](https://www.youtube.com/watch?v=bo_efYhYU2A
 
 Why focus on accuracy, [in this modern world](https://www.youtube.com/watch?v=bo_efYhYU2At=0m16s), when you could focus on [speed](https://www.youtube.com/watch?v=FvvZaBf9QQI)?
 
-Please email critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Feel free to copy. After all, these are quotes, not original thoughts. Part 3 is *arriving*.
+A good heuristic when you're uncertain is to just go for the most novel
+
+By far the biggest difference in people is their open-mindedness/shyness
+
+Please email critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Feel free to copy. After all, these are quotes, not original thoughts. Part 3 is *arriving*. lol
 
 [Part 1](http://amathematicalworld.com/infinitepotential)  
 [Part 2](http://amathematicalworld.com/infinitepotential2)
