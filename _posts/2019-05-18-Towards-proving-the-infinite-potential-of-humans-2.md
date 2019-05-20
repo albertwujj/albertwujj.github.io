@@ -4,6 +4,9 @@ title:  'Towards proving the infinite potential of humans 2'
 permalink: /infinitepotential2
 ---
 
+> "The important thing is...to continue steadfastly on one's way without
+letting oneself be either defeated by failure or diverted by applause.” -Gustav Mahler -@SouthernGemGal
+
 In progress.
 
 Join our club. It’s the ‘do what you want club’. You do want you want, any time, all the time. There’s infinite recursive levels of reflection to choose from. Choosing which level itself is learnable.
