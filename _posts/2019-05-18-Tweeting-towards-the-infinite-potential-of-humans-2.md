@@ -13,7 +13,7 @@ Join our club. It’s the ‘do what you want club’. You do want you want, any
 
 Eventually we will hit a dead end in human math, without immortality in the limit. Who knows, maybe we're 1% of the way there?
 
-As you get faster and faster external pressure cannot touch you. At worst it will slow you down and calm you a little.
+As you get faster anxiety loses its grip. At worst it will slow you down and calm you a little.
 
 
 You don't try to bullshit theorize. You come up with new ideas and see where it all connects. Unless the math really helps people come up with better ideas, which im not so sure. you gotta test it on the real env, after all. the latest best ideas in ML have seemed extremely light on math.
