@@ -4,8 +4,8 @@ title:  'Tweeting towards an infinite potential of humans 2'
 permalink: /infinitepotential2
 ---
 
-> "The important thing is...to continue steadfastly on one's way without
-letting oneself be either defeated by failure or diverted by applause.” -Gustav Mahler -@SouthernGemGal
+> "'The important thing is...to continue steadfastly on one's way without
+letting oneself be either defeated by failure or diverted by applause.' - Gustav Mahler" - @SouthernGemGal
 
 In progress.
 
