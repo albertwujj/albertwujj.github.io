@@ -36,3 +36,8 @@ Please email critique to <albertwujj@gmail.com> (Albert) or <timerox888@gmail.co
 
 [Part 1](http://amathematicalworld.com/infinitepotential)  
 [Part 2](http://amathematicalworld.com/infinitepotential2)
+
+all those followers on twitter are fake  
+just follow-for-follow  
+like-for-like  
+retweet-for-retweet  
