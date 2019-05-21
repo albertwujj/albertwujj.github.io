@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Blog by Aaron and Albert
+Blog by Aaron and Albert and Ray.
