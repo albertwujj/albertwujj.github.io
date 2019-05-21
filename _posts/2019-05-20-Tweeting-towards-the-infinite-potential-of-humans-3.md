@@ -20,7 +20,7 @@ A good heuristic when you're uncertain is to just go for the most novel
 
 By far the biggest difference in people is their open-mindedness/shyness
 
-It's so hard to convince anyone of anything.
+It's become so hard to convince anyone of anything.
 
 Beebeebeebeebeebeebeebee - everywhere you look people are hooked onto things.
 
