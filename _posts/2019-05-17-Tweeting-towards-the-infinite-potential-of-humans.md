@@ -88,6 +88,10 @@ Once you learn to optimize everything else, it's trivial to optimize yourself.
 
 We have a single anecdote of a person who (we believe) shows that anything is possible: our author Albert. He failed his classes with a GPA of less than 1.0, while sitting alone every lunch. Along with his bro Aaron, he is writing this tweet.
 
+Spaced-repetition this shit.
+
+If you've read more than a couple of these takes and plan to reflect, you're already in the long tail.
+
 Everyone has the potential for a self-singularity.
 
 
