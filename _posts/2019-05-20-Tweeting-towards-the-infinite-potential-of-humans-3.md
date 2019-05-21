@@ -4,6 +4,7 @@ title:  'Tweeting towards an infinite potential of humans 3'
 permalink: /infinitepotential3
 ---
 
+>It seems to be much easier to make two small jumps than the one big jump in any kind of mental thinking. -Claude Shannon
 
 In progress.
 
@@ -22,6 +23,8 @@ By far the biggest difference in people is their open-mindedness/shyness
 It's so hard to convince anyone of anything.
 
 In the ideal world everyone discusses with each other until they each agree to their individual satisifaction.
+
+Then they can each discuss anything with each other.
 
 Please email critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Feel free to copy. After all, these are quotes, not original thoughts. Part 3 is *arriving*. lol
 

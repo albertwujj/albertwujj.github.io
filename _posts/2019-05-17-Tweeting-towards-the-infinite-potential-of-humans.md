@@ -90,7 +90,7 @@ We have a single anecdote of a person who (we believe) shows that anything is po
 
 Spaced-repetition this shit.
 
-If you've read more than a couple of these takes and plan to reflect, you're already in the long tail.
+If you've read more than a couple of these tweets and plan to reflect, you're already in the long tail.
 
 You have the potential for a self-singularity.
 
