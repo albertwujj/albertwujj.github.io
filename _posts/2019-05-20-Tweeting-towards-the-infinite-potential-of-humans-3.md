@@ -22,9 +22,15 @@ By far the biggest difference in people is their open-mindedness/shyness
 
 It's so hard to convince anyone of anything.
 
+Beebeebeebeebeebeebeebee - everywhere you look people are hooked onto things.
+
+It's not called depression. It's called the inability to choose anything for yourself.
+
 In the ideal world everyone discusses with each other until they each agree to their individual satisifaction.
 
 Then they can each discuss anything with each other.
+
+Love is death of duty. Duty is death of freedom.
 
 Please email critique to <albertwujj@gmail.com> (Albert) or <timerox888@gmail.com> (Aaron). Feel free to copy. After all, these are quotes, not original thoughts. Part 3 is *arriving*. lol
 
