@@ -41,3 +41,4 @@ all those followers on twitter are fake
 just follow-for-follow  
 like-for-like  
 retweet-for-retweet  
+EVERYWHERE YOU LOOK PEOPLE ARE GODDAMNED HOOKED ONTO THINGS
