@@ -16,9 +16,11 @@ It's ok to be [far from the shallow](https://www.youtube.com/watch?v=bo_efYhYU2A
 
 Why focus on accuracy, [in this modern world](https://www.youtube.com/watch?v=bo_efYhYU2At=0m16s), when you could focus on [speed](https://www.youtube.com/watch?v=FvvZaBf9QQI)?
 
-A good heuristic when you're uncertain is to just go for the most novel
+A good heuristic when you're uncertain is to just go for the most novel.
 
-By far the biggest difference in people is their open-mindedness/shyness
+By far the biggest difference in people is their open-mindedness/shyness.
+
+You gotta be able to switch trains at will.
 
 It's become so hard to convince anyone of anything.
 
