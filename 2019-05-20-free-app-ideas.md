@@ -4,7 +4,7 @@ title:  'free app ideas'
 permalink: /freeideas
 ---
 
-> EVERYWHERE YOU LOOK PEOPLE ARE GODDAMNED HOOKED ONTO THINGS
+> everywhere you look people are hooked onto things
 
 - Dual-directional stream messaging prototype (for free-form judgement free texts to a specific person)
 - Universal Ctrl-F program - likely need constant screen-reading ML agent running
