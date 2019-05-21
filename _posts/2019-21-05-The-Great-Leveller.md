@@ -18,8 +18,7 @@ becomes
 
 > Even when I dedicated most of my life to these, I understand the urge of my compatriots to work with ratings. In high school parents are expected to score high. In high school, the change in some pressure is likely to be college. But when, finally, he entered the university, regardless of the impression he insisted, he took the opportunity of the film, graduate school, etc. Over time, the concept of “absolutely” is more than just an indicator of academic progress, and the number of students begins to the ability or ability inherent in certain subjects. This is part of their own identity.
 
-
-Of course, the full algorithm is significantly more complex, involving a custom translator network, loss based on minimizing low-level similarity and maximizing high-level similarity, a learned language path, and selection of how much to translate at once.
+One can then revise the result freely. Of course, the full algorithm is significantly more complex, involving a custom translator network, loss based on minimizing low-level similarity and maximizing high-level similarity, a learned language path, and selection of how much to translate at once.
 
 We believe this new algorithm will help humanity work together to achieve free will for all.
 
