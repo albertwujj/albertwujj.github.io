@@ -92,7 +92,7 @@ Spaced-repetition this shit.
 
 If you've read more than a couple of these takes and plan to reflect, you're already in the long tail.
 
-Everyone has the potential for a self-singularity.
+You have the potential for a self-singularity.
 
 
 Please email critique to <albertwujj@gmail.com> (Albert Wu) or <timerox888@gmail.com> (Aaron Wu). Feel free to copy. After all, these are quotes, not original thoughts. Part 3 is coming.
