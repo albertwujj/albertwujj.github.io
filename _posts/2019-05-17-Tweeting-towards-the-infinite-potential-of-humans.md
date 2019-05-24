@@ -7,7 +7,7 @@ permalink: /infinitepotential
 
 
 
-We believe everyone has limitless potential with two things: Zero external pressure. One hundred percent self-honesty. The latter follows the former.
+We believe everyone has limitless potential with two things: Zero external pressure. One hundred percent self-honesty. The latter follows the former, but you can't have the one without the other.
 
 Everything is constructed. Everything is an opinion. How do we even function? The answer is calm, honest, incremental communication. 
 
