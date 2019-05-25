@@ -21,12 +21,12 @@ A reduced sense of wonder is key.
 
 [Matt Stonie](https://www.youtube.com/channel/UCd1fLoVFooPeWqCEYVUJZqg) is an example of unintuitive human capabilities. So is [Danielle Steel](https://www.glamour.com/story/danielle-steel-books-interview).
 
-The initial friction against wanting to be immortal is the misconception one has limited energy. Moreover, everything can always be improved in the limit, 
-yet there is always more to explore. Like the [RL convergence conditions](http://incompleteideas.net/book/RLbook2018.pdf#page=55) on epsilon or alpha. 
+
+'Live as if you were to die tomorrow. Learn as if you were to live forever.' -Mahatma Ghandi. Find the joy of learning, and you'll want to live forever. 
 
 Bold hypothesis: A human can live their life without ever shutting their eyes to sleep.
 
-One may have self-doubt even with a shitton of aphorisms, but that is because they think they'll forget the lessons learned. Just like [DRAM](https://en.wikipedia.org/wiki/Dynamic_random-access_memory), refreshing is necessary. However, in humans, the refresh interval gets longer and longer exponentially (think spaced reptition. A good tool for this is [Anki](https://apps.ankiweb.net/)). Thus you can literally learn infinite with time, as power series converge. To make it concrete: given infinite time, if you can keep up with Anki, you can learn infinite. We will expand on this later, turning it into a mathematical proposition.
+
 
 We learn and create new things because everyone who has ever existed has had access to what no one ever had before. Past scientists, for example, didn't have Reinforcement Learning analogies to work with.
 
