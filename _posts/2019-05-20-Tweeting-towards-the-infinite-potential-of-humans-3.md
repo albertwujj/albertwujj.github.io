@@ -6,7 +6,8 @@ permalink: /infinitepotential3
 
 >It seems to be much easier to make two small jumps than the one big jump in any kind of mental thinking. -Claude Shannon
 
-In progress.
+
+Your brain forms new connections when you're sleeping so if you can control sleep you can literally build your brain.
 
 All of it boils down to economics. More or less. [High or low. Fast or slow.](https://www.youtube.com/watch?v=fwlVZh8IlC8)
 

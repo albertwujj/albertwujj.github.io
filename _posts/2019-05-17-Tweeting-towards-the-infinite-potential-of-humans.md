@@ -27,7 +27,6 @@ A reduced sense of wonder is key.
 Bold hypothesis: A human can live their life without ever shutting their eyes to sleep.
 
 
-
 We learn and create new things because everyone who has ever existed has had access to what no one ever had before. Past scientists, for example, didn't have Reinforcement Learning analogies to work with.
 
 If you live forever you can literally do anything, as long as it follows the laws of physics. You can additionally teach anyone anything as long as they also live forever.
