@@ -24,3 +24,5 @@ There are two types of alternative energies, variable and controllable.
 Current electric grids cannot handle variable energies without wasting extra CO2, since they cannot store power for later. ML can both help reduce the CO2 currently wasted and transition to alternative energies, by improving technology and intelligently accommodating the variability of both supply and demand. Predicting supply and demand is one way to do so.
 
 Currently, when balancing power systems, operators use a slow and complex processes governed by NP-hard optimization problems. Machine learning techniques can help solve these optimization problems, or bypass them with direct control learned by subfields like reinforcement learning.
+
+Read the rest [here on Arxiv](https://arxiv.org/pdf/1906.05433.pdf).
