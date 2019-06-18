@@ -7,11 +7,11 @@ permalink: /infinitepotential
 
 
 
-We believe everyone has limitless potential with two things: Zero external pressure. One hundred percent self-honesty. The latter follows the former, but you can't have the one without the other.
+We believe everyone has limitless potential with two things: Zero external pressure. One hundred percent self-honesty. The latter follows the former, but you can't have one without the other.
 
 Everything is constructed. Everything is an opinion. How do we even function? The answer is calm, honest, incremental communication. 
 
-So much of creation has two orthogonal parts. In writing you have to deliberately alternate between creating and critiquing, but not do both at same time.
+So much of creation has two orthogonal parts. In writing you have to deliberately alternate between creating and critiquing, but not both at the same time.
 
 Anxiety resulting in more reflection/reconsideration is actually a double-benefit: once it serves a purpose you can let it go. 
 
@@ -22,22 +22,12 @@ A reduced sense of wonder is key.
 [Matt Stonie](https://www.youtube.com/channel/UCd1fLoVFooPeWqCEYVUJZqg) is an example of unintuitive human capabilities. So is [Danielle Steel](https://www.glamour.com/story/danielle-steel-books-interview).
 
 
-'Live as if you were to die tomorrow. Learn as if you were to live forever.' -Mahatma Ghandi. Find the joy of learning, and you'll want to live forever. 
+We learn and create new things because everyone who has ever existed has had access to what no one ever had before.
 
-Bold hypothesis: A human can live their life without ever shutting their eyes to sleep.
+If we were immortal one could convince anyone of any of your beliefs. 
 
+I never worry whatsover about writing anymore. It's just a choice to no longer spend more time critiquing, qualifying, or adding more ideas. Similarly with decision making.
 
-We learn and create new things because everyone who has ever existed has had access to what no one ever had before. Past scientists, for example, didn't have Reinforcement Learning analogies to work with.
-
-If you live forever you can literally do anything, as long as it follows the laws of physics. You can additionally teach anyone anything as long as they also live forever.
-
-Always just take notes, unless you believe there is a very high probability you will remember it or come back to it later.
-
-I never worry whatsover about writing anymore. It's just a choice to no longer spend more time critiquing, qualifying, or adding more ideas. Similarly with decision making. My body generates anxiety but this is a benefit.
-
-You don't need to believe humans exist to prove stuff.
-
-Starting to learn math is like an introduction to meta-thinking.
 
 You need to write low-friction pieces if you want to be worth the time to your readers.
 
@@ -69,11 +59,9 @@ Philosophically refine an idea until it's near mathematical.
 
 2 things we have dogs don’t: We can direct action. I can arbitrarily choose to lick the table. And we have the ability to reflect/meta-think at arbitrary levels (for a stupid example see Derivative Clicker).
 
-We absolutely have wondrous superpowers and magical gifts compared to people 100 years ago. It’s not about a sense of wonder (I will elaborate on this). It’s about reflecting honestly on it.
+We absolutely have wondrous superpowers and magical gifts compared to people 100 years ago. Reflect honestly on it.
 
 If you’re honest with yourself about the effect of technology on you, you can begin to free yourself from its grasp.
-
-We believe maybe half of people in similar situations to us share our same priors originating from childhood and evolution.
 
 Force your priors into the ones you deeply want. In Reinforcement Learning, the value function is the prior from the perspective of an individual timestep. 
 
@@ -87,9 +75,6 @@ Once you learn to optimize everything else, it's trivial to optimize yourself.
 
 We have a single anecdote of a person who (we believe) shows that anything is possible: our author Albert. He failed his classes with a GPA of less than 1.0, while sitting alone every lunch. Along with his bro Aaron, he is writing this tweet.
 
-Spaced-repetition this shit.
-
-If you've read more than a couple of these tweets and plan to reflect, you're already in the long tail.
 
 You have the potential for a self-singularity.
 

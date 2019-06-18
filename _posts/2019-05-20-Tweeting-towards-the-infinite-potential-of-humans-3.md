@@ -9,6 +9,8 @@ permalink: /infinitepotential3
 
 Your brain forms new connections when you're sleeping so if you can control sleep you can literally build your brain.
 
+Early in my philosophies I was polar-opposite wrong. You have to have zero sense of self. You need the confidence not to worry about yourself.
+
 All of it boils down to economics. More or less. [High or low. Fast or slow.](https://www.youtube.com/watch?v=fwlVZh8IlC8)
 
 Humans want the inachievable limit. [And what's so wrong with that?](https://www.youtube.com/watch?v=HLXkqIefXY0#t=0m18s)
