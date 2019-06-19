@@ -15,19 +15,19 @@ So much of creation has two orthogonal parts. In writing you have to deliberatel
 
 Anxiety resulting in more reflection/reconsideration is actually a double-benefit: once it serves a purpose you can let it go. 
 
+Never think the same thought twice in a row. You’re literally getting 0 new information. Spaced repetition can help with receiving new random seeds when revisiting thoughts.
+
 Believing we are in a simulation is the result of being able to deal with both the infinite, the infinitesimal, the meta, and the lack of ego.
 
 A reduced sense of wonder is key.
 
 [Matt Stonie](https://www.youtube.com/channel/UCd1fLoVFooPeWqCEYVUJZqg) is an example of unintuitive human capabilities. So is [Danielle Steel](https://www.glamour.com/story/danielle-steel-books-interview).
 
-
 We learn and create new things because everyone who has ever existed has had access to what no one ever had before.
 
 If we were immortal one could convince anyone of any of your beliefs. 
 
 I never worry whatsover about writing anymore. It's just a choice to no longer spend more time critiquing, qualifying, or adding more ideas. Similarly with decision making.
-
 
 You need to write low-friction pieces if you want to be worth the time to your readers.
 
@@ -67,7 +67,6 @@ Force your priors into the ones you deeply want. In Reinforcement Learning, the 
 
 The process of recall for memory is more helpful than one might think, because in addition to storing inputs, our memory also stores intermediate computations.
 
-Never think the same thought twice in a row. You’re literally getting 0 new information. Spaced repetition can help with receiving new random seeds when revisiting thoughts.
 
 Afraid to self-reflect? Feel like you're biased? Afraid nothing's real?. Try pretending you’re analyzing an alien, not a human.
 
