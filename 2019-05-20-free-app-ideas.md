@@ -6,10 +6,10 @@ permalink: /freeideas
 
 > everywhere you look people are hooked onto things
 
-- Dual-directional stream messaging prototype (for free-form judgement free texts to a specific person)
 - Universal Ctrl-F program - likely need constant screen-reading ML agent running
-- Unplagiarize text. EXTREMELY dangerous.
-    -  Take any blog post. Run it through the model. Then copy it to your own and no one will ever know.
-    - Trivial to do right now because you just need to beat the plagiarism detectors.
+- 'Mnemonic medium' like quantum.country, but with recursive nested topics to allow learning from high to low-level, by self-direction.
+- Dual-directional stream messaging prototype (for free-form judgement free texts to a specific person)
+- [The Great Leveller](https://medium.com/datadriveninvestor/the-great-leveller-c4adbdc20be0)
+- Text generator like OpenAI's GPT-2, but instead of spending hundreds of thousands of USD on machine learning, just take the last couple phrases of the current text, search for it on the internet, add one of the results to the current text, and repeat (credit to @fchollet on Twitter).
 
 For any questions or critiques please email <albertwujj@gmail.com> (Albert) or <timerox888@gmail.com> (Aaron). Feel free to copy. After all, these are ideas, not original thoughts.
