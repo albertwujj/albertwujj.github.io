@@ -8,6 +8,7 @@ permalink: /infinitepotential4
 
 In progress.
 
-External pressure may trick you into believing certain things are far more challenging than they actually are.
 
-Anxiety is the force you need to overcome initial inertia. Once you're moving you only need a small amount of effort to maintain velocity. The further you reduce friction, the lower this requisite effort becomes.
+It is those of us that find wonder in trifles that will become willing to save the world.
+
+The ability to lose yourself in a detail, the ability to allow any arbitrary subject to take over your entire world completely - that is what defines a higher level of consciousness.
