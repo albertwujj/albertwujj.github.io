@@ -11,4 +11,6 @@ In progress.
 
 It is those of us that find wonder in trifles that will become willing to save the world.
 
-The ability to lose yourself in a detail, the ability to allow any arbitrary subject to take over your entire world completely - that is what defines a higher level of consciousness.
+The ability to lose yourself in a detail, the ability to allow any arbitrary subject to take over your entire world completely -  higher level of consciousness.
+
+The human body is the penutimate frontier - It is my belief we've already made the necessary technological advances for huge leaps in this frontier. The seeds have been planted, growing seasons have passed - it's time for harvest.
