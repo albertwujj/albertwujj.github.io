@@ -9,7 +9,7 @@ permalink: /infinitepotential4
 In progress.
 
 
-It is those of us that find wonder in trifles that will become willing to save the world.
+It is those who wonder at trifles that believe in humanity's future.
 
 The ability to lose yourself in a detail, the ability to allow any arbitrary subject to take over your entire world completely -  This is what defines a higher level of consciousness.
 
