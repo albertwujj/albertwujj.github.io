@@ -9,7 +9,7 @@ permalink: /infinitepotential4
 In progress.
 
 
-It is those who wonder at trifles that believe in humanity's future.
+It is those who wonder at trifles that are able to believe in humanity's future.
 
 The ability to lose yourself in a detail, the ability to allow any arbitrary subject to take over your entire world completely -  This is what defines a higher level of consciousness.
 
