@@ -11,6 +11,8 @@ In progress.
 
 Join our club. It’s the ‘do what you want club’. You do want you want, any time, all the time. There’s infinite recursive levels of reflection to choose from. Choosing which level itself is learnable.
 
+Not sure if this will make sense to anyone else, but there's infinite levels of self-reflection/meta-thinking you can switch between, for novelty. For example, you can realize that you're reflecting, then realize that you realize you're reflecting.
+
 Choice creates novelty and reduces boredom.
 
 Eventually we will hit a dead end in human math, without immortality in the limit. Who knows, maybe we're 1% of the way there?
