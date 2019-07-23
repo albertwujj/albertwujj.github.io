@@ -9,7 +9,7 @@ Climate change is a tractable problem. For one thing, we have the internet. Mayb
 
 Machine learning is one useful tool. Many people study machine learning. Nonetheless, machine learning is not so much a field itself so much as a tool used in other fields. Thus a multitude of fields contribute and collaborate towards machine learning problems.
 
-![ML problems diagram](https://amathematicalworld.com/assets/MLProblems.png)
+![ML problems diagram](https://humanssingularity.com/assets/MLProblems.png)
 
 Who do we want to convince that machine learning can be used for something other than video games, smart homes for the elderly, and superintelligence? Researchers, engineers, entrepreneurs, investors, big companies, and governments. There are machine learning-climate change problems that can be targeted at each audience.
 
