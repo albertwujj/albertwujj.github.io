@@ -78,7 +78,9 @@ We have a single anecdote of a person who (we believe) shows that anything is po
 You have the potential for a self-singularity.
 
 
-Please email critique to <albertwujj@gmail.com> (Albert) or <timerox888@gmail.com> (Aaron). Feel free to copy. After all, these are quotes, not original thoughts. Part 3 is coming.
+Please email critique to <albertwujj@gmail.com> (Albert) or <timerox888@gmail.com> (Aaron). Feel free to copy. After all, these are quotes, not original thoughts. Part 5 is coming.
 
-[Part 1](http://amathematicalworld.com/infinitepotential)  
-[Part 2](http://amathematicalworld.com/infinitepotential2)
+[Part 2](http://humanssingularity.com/infinitepotential2)  
+[Part 3](http://humanssingularity.com/infinitepotential3)  
+[Part 4](http://humanssingularity.com/infinitepotential4)  
+[Part 5](http://humanssingularity.com/infinitepotential5)  

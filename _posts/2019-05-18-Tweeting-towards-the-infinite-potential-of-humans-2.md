@@ -84,6 +84,3 @@ Qualify the decisions, then maximize the decisions. Unlike [in RL](http://incomp
 It doesn't seem possible to save the world. But you should certainly try.
 
 Please email critique to <albertwujj@gmail.com> (Albert) or <timerox888@gmail.com> (Aaron). Feel free to copy. After all, these are quotes, not original thoughts. Part 3 is coming.
-
-[Part 1](http://amathematicalworld.com/infinitepotential)  
-[Part 2](http://amathematicalworld.com/infinitepotential2)
