@@ -1,0 +1,16 @@
+
+One's definition of good and evil are traditionally highly personal properties. Development of individuals' "moral compasses" have long been treated as givens rather than processes that require outside instruction. Even children, and in a way especially children, are trusted to know good from evil. So why has arguing about who is good and who is evil become such a hot activity lately?
+
+Globalization through the Internet reveals that good and evil are actually difficult concepts to agree on. Possibly counterintuitively, this should not actually come as a surprise, given how the definitions are highly personal to each individual.
+
+Nonetheless, the Internet exacerbates the disagreements, as people from vastly different backgrounds are connected and, more subtly, as the grounds on which battles are fought using the personally-defined axiom swords labeled "good" and evil" get ever more unsteady as they become overrun by the quicksand of fake news and clickbait. Metaphors aside, the issue is that one's definition of good and evil become more uncertain because they are used by one to navigate how one believes they and believes others should behave in our global human setting, the setting itself being the newly uncertain ground likened to quicksand.
+
+The issue will get worse and worse, through certain potential future phenomena we can predict. But first, I will offer two weapons of invincible reality, serving aforementioned roles - The Temporal Blades.
+
+The Blade of Promise is your Good blade. The Blade of Rewriting is your Evil blade, and in my opinion should avoid being used. Metaphors aside, these weapons themselves are fundamentally linked to honesty, but, crucially, they act at a more fundamental level than the concepts of good and evil. 
+
+To explain, only the present instant is reality. Hard. The rest is information (soft). The past is contained in records, analog, digital, and in our brains. The future exists solely in our brains, as predictions and promises. Predictions is a science-bound description of the future consists of - promises is the more general term here.
+
+So the past and the future are both information. Nonetheless, I claim that the Blade of Promise is Good, and the Blade of Rewriting is Evil. Keeping things simple, we can define Good to be "achieving what you want", in which case your Blade of Promise is certainly good, and your Blade of Rewriting is only Good if you want to rewrite the past (approximately, being dishonest with yourself) to keep yourself happy. The issue here is that the Blade of Rewriting makes it more difficult for other people to predict your future behavior, which thus makes it harder for them to achieve what they want themselves. On the other hand, the Blade of Promise's fundamental effect is to allow yourself and others to predict your future behavior.
+
+Here is how I plan to navigate with my personal Temporal Blades. I will choose one direction out of the infinite directions, that few people are currently going about, then tuck my Blade of Rewriting behind my back, fully visible to all. Then I will use my Blade of Promise to attract chasers (either haters or admirers), and to deflect the weapons of haters. QED.
