@@ -4,7 +4,7 @@ title:  'Defining good and evil in a modern world - promising rewriting'
 permalink: /promisingrewriting
 ---
 
-_Make promises. Don't go back_
+_Make promises. Don't go back._
 
 Your definitions of good and evil are traditionally personal to you. Development of individuals' "moral compasses" have long been treated as givens rather than processes that require outside instruction. Even children, and in a way especially children, are trusted to know good from evil. 
 
