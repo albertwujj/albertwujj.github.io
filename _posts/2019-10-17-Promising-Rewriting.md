@@ -4,7 +4,7 @@ title:  'Defining good and evil in a modern world - promising rewriting'
 permalink: /promisingrewriting
 ---
 
-> Make promises. Don't go back.
+_Make promises. Don't go back_
 
 Your definitions of good and evil are traditionally personal to you. Development of individuals' "moral compasses" have long been treated as givens rather than processes that require outside instruction. Even children, and in a way especially children, are trusted to know good from evil. 
 
@@ -22,4 +22,4 @@ So the past and the future are both information. The Blade of Promise predicts t
 
 I have a plan of navigation with my personal Temporal Blades. I will choose one direction out of the infinite directions, that few people are currently going about, then tuck my Blade of Rewriting behind my back, fully visible to all. Then I will use my Blade of Promise to attract chasers (either haters or admirers), and to slightly deflect the weapons of haters. Although, my distance alone should be enough to attract admirers. QED.
 
-_Make promises. Don't go back._
+_Make promises. Don't rewrite._
