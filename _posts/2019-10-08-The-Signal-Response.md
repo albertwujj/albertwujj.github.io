@@ -4,7 +4,7 @@ title:  'The Signal Response - A hacker as a third wheel, communication as advan
 permalink: /signalresponse
 ---
 
-> Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.
+_This article is intended to propose and demonstrate Signal-Response as a new software engineering term._
 
 
 What is the purpose of a software application? What does it do for its user? A software application responds to its user's input.
@@ -15,6 +15,6 @@ A social software application has at least 2 users, A and B. A and B are able to
 
 But there is a more general, more useful conceptualization of hacking. Not as finding oversights, but as interjecting the hackerself in the midst of signal-responses. A software application allows user A and user B to communicate with the software application through responding to signals. Ultimately, A and B can communicate with each other. A hacker does not need to find an oversight to hijack this communication.
 
-Please, be scared of the entire Internet. Then the implications should be clear.
+Be scared of the entire Internet. Then the implications should be clear.
 
 I'll leave with the wider purpose of this all. Please remember, war is the fountainhead of human progress. Due to mutually assured destruction, atoms-based war was already at a standstill.
