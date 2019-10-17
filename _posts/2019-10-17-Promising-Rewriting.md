@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  'Defining Good and Evil in a Modern World - Promising Rewriting'
+title:  'Defining good and evil in a modern world - promising rewriting'
 permalink: /promisingrewriting
 ---
 
