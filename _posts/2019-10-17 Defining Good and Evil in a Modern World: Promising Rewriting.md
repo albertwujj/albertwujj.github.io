@@ -1,3 +1,9 @@
+---
+layout: page
+title:  'Defining Good and Evil in a Modern World - Promising Rewriting'
+permalink: /promisingrewriting
+---
+
 
 One's definition of good and evil are traditionally highly personal properties. Development of individuals' "moral compasses" have long been treated as givens rather than processes that require outside instruction. Even children, and in a way especially children, are trusted to know good from evil. 
 
