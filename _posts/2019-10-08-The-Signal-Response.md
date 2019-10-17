@@ -1,8 +1,10 @@
 ---
 layout: page
-title:  'The Signal Response - A hacker as a third wheel, communication as advancement, and the people as a pawn'
+title:  'The Signal Response concept'
 permalink: /signalresponse
 ---
+
+**A hacker as a third wheel, communication as advancement, and the people as a pawn**
 
 _This article is intended to propose and demonstrate Signal-Response as a new software engineering term._
 
