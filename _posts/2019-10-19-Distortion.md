@@ -13,3 +13,5 @@ We can take a collective solipsist framework, assuming the world only exists in 
 Yes, meditation is the fundamental form of studying to have control over yourself. Which you can deduce to be the ultimate method of gaining control over other people. QED.
 
 _Trying to fall asleep, as long as you don't actually fall asleep, is meditation with the additional goal of feeling comfortable._
+
+> people writing about consciousness be like, "first i will redefine the term 'consciousness' as something i can make empirical statements about, then see how just how long i can talk before people notice i'm not talking about what they came here to find out about" - @chaosprime
