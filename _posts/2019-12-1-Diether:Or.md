@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  'Diether/Or'
-permalink: /diether
+permalink: /dietheror
 date: 2019-12-01 3:57:50
 ---
 
