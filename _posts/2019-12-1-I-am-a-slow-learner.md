@@ -2,6 +2,7 @@
 layout: page
 title:  'I am a slow learner'
 permalink: /Iamaslowlearner
+date: 2019-12-01 6:57:57
 ---
 
 The slowest learners propagate their learnings throughout the world the longest. 
