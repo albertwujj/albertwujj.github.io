@@ -2,6 +2,7 @@
 layout: page
 title:  'Violence'
 permalink: /violence
+date: 2019-12-01 5:40:57
 ---
 
 Violence is quite non-differentiable. It breaks. It breaks bodies. It breaks relationships. Now, the concept of violence is subtly but strongly linked to the concept of time, like death. But often in the sciences, the dimension of the x-axis of a graph is time. 

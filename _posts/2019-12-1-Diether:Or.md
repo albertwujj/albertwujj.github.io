@@ -2,6 +2,7 @@
 layout: page
 title:  'Diether/Or'
 permalink: /diether
+date: 2019-12-01 3:57:50
 ---
 
 Diether/Or
@@ -13,4 +14,5 @@ Then to those common folks who say that power is selfish, and information is use
 Legends may have once been cliche, but they are exactly what the younger generation is forced to forget, and what the older generation manages to.
 
 Now, no one knows how to live the most selfless life, do they? Or if they did, they would be quite self-assured about their knowledge. How could the selfless one possibly choose between oblivion and power? I thought, no one knows how to live the most selfless life. You must either try your best to extend your lifespan without making any sort of a splash, until you can choose a course of action judged rationally to be more optimal, but if for some reason that is undesirable, softly disappear and rest in peace.
+
 
