@@ -5,6 +5,7 @@ permalink: /diether
 date: 2019-12-01 3:57:50
 ---
 
+> No effectual philosopher accepts death. No true philosopher fears it.
 
 Dying is the most selfish of possible actions, as the alive believe it is impossible to interact with the dead. (Feverishly avoiding and sadly protesting suicide is, for reasons more nuanced, narrow-minded and selfish, while arguments of stances opposing this, which are by far the majority, tend to be abundant with contradictions).
 
