@@ -2,7 +2,7 @@
 layout: page
 title:  'Light is silent'
 permalink: /light1ssilent
-date: 2019-12-09
+date: 2019-12-17
 ---
 
 >The most silent violence has the capacity to violence of the most violent violence, and the most violent violence is the most violent of them all. - Sir S'elf
