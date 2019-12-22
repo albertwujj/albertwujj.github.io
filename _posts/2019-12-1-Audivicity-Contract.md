@@ -12,8 +12,8 @@ Realizing and executing the final unification of English grammar and Chinese cha
 Bringing Ayn "John Galt" Rand's Project X to Asia, from America.
 
 CEO - Hongmei Tang (CFO and HR)
-COO - Albert Wu
-CTO - Aaron Wu (contract pending)
+COO - I Am
+CTO - Tommy Yihui (contract pending)
 Lead Developer - Anonymized (between jobs). Hired on a multi 6-figure annual salary contract.
 
 Looking for - CFO
