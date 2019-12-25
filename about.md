@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Blog by I Am.
+Blog by Ayn Am.

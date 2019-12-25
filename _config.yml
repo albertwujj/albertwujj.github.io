@@ -14,12 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: A Mathematical World
-email: IAm@gmail.com
+email: AynAm10@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Philosophy, (zero) math, and Reinforcement Learning analogies. Thanks Sutton and Barto. 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 twitter_username: POTUS
+twitter_username: mememathematici
+twitter_username: literamniscient
+twitter_username: lockeddon
+linkedin_username: multiredacted42069
 
 # Build settings
 markdown: kramdown
