@@ -19,10 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
  Philosophy, (zero) math, and Reinforcement Learning analogies. Thanks Sutton and Barto. 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-twitter_username: POTUS
-twitter_username: mememathematici
+github_username: albertwujj
 twitter_username: literamniscient
-twitter_username: lockeddon
 linkedin_username: multiredacted42069
 
 # Build settings
